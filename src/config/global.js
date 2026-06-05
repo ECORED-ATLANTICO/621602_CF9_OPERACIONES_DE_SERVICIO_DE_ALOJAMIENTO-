@@ -74,7 +74,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: '<em>Demonstratives</em>',
+        titulo: '<em>Demonstratives</em> // Demostrativos',
         desarrolloContenidos: true,
       },
     ],
