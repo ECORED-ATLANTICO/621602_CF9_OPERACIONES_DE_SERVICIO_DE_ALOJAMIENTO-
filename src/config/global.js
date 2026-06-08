@@ -62,7 +62,8 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: '<em>Hotel areas and facilities</em>',
+        titulo:
+          '<em>Hotel areas and facilities</em> // Áreas e instalaciones del hotel',
         desarrolloContenidos: true,
       },
       {
