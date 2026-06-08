@@ -29,7 +29,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: '<em>Lodging</em>',
+        titulo: '<em>Lodging</em> // Alojamiento',
         desarrolloContenidos: true,
         subMenu: [
           {
