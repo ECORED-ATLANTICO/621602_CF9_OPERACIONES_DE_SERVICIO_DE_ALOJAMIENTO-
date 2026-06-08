@@ -297,29 +297,26 @@
               figure
                 img.w-120.mb-4.mb-lg-0(src="@/assets/curso/tema2/36.svg", alt="", data-aos="fade-down-right")
             .col-lg-8
-              h5.mb-4 #[em Job]
+              h5.mb-4 #[em Class]
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Travel Agent]
+                  | #[em Luxury Hotels]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Local Tourism manager]
+                  | #[em Upper Upscale Hotels]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Tourism consultant]
+                  | #[em Upscale Hotels]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Airport operations manager]
+                  | #[em Upper Midscale Hotels]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Tour leader / guide]
+                  | #[em Midscale Hotels]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Hotel concierge]
-                li.d-flex.mb-0
-                  i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Cruise ship attendant]
+                  | #[em Economy Hotels]
       .col-lg-6.mb-4.mb-lg-0
         .rounded-4.h-100.overflow-hidden.bg-img.bg-img--4.p-4
           .row.justify-content-center.align-items-center
@@ -327,29 +324,26 @@
               figure
                 img.w-120.mb-4.mb-lg-0(src="@/assets/curso/tema2/36.svg", alt="", data-aos="fade-down-right")
             .col-lg-8
-              h5.mb-4 Cargo
+              h5.mb-4 Clase
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Agente de viajes
+                  | Hoteles de nivel Lujo
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Gerente regional de turismo
+                  | Hoteles de nivel Superior exclusivo
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Consultor de turismo
+                  | Hoteles de nivel Exclusivo
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Gerente de operaciones de aeropuerto
+                  | Hoteles de nivel Superior medio
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Líder / guía turístico
+                  | Hoteles de nivel Medio
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Conserje del hotel
-                li.d-flex.mb-0
-                  i.fas.fa-minus.fa-xs.mt-2
-
+                  | Hoteles de nivel Económico
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
         .bg-acento-contenido-a5.p-4.rounded-4
@@ -364,29 +358,38 @@
               figure
                 img.w-120.mb-4.mb-lg-0(src="@/assets/curso/tema2/37.svg", alt="", data-aos="fade-down-right")
             .col-lg-8
-              h5.mb-4 #[em Scale]
+              h5.mb-4 #[em Expensive]
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Luxury Chains]
+                  | #[em Cheap]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Upper Upscale Chains]
+                  | #[em Modern]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Upscale Chains]
+                  | #[em Charming]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Upper Midscale Chains]
+                  | #[em Bustling]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Midscale Chains]
+                  | #[em Contemporary]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Economy Chains]
+                  | #[em Cosmopolitan]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Independent Hotels]
+                  | #[em Historic]
+                li.d-flex.mb-0
+                  i.fas.fa-minus.fa-xs.mt-2
+                  | #[em Exciting]
+                li.d-flex.mb-0
+                  i.fas.fa-minus.fa-xs.mt-2
+                  | #[em Peaceful / quiet / relaxing]
+                li.d-flex.mb-0
+                  i.fas.fa-minus.fa-xs.mt-2
+                  | #[em Traditional]
       .col-lg-6.mb-4.mb-lg-0
         .rounded-4.h-100.overflow-hidden.bg-img.bg-img--7.p-4
           .row.justify-content-center.align-items-center
@@ -394,29 +397,38 @@
               figure
                 img.w-120.mb-4.mb-lg-0(src="@/assets/curso/tema2/37.svg", alt="", data-aos="fade-down-right")
             .col-lg-8
-              h5.mb-4 Escala
+              h5.mb-4 Caro
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas de nivel Lujo
+                  | Barato
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Superior exclusivo
+                  | Moderno
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Exclusivo
+                  | Con Encanto / Encantador
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Superior medio
+                  | Bullicioso
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Medio
+                  | Contemporáneo
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Económico
+                  | Cosmopolita
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles Independientes
+                  | Histórico
+                li.d-flex.mb-0
+                  i.fas.fa-minus.fa-xs.mt-2
+                  | Emocionante
+                li.d-flex.mb-0
+                  i.fas.fa-minus.fa-xs.mt-2
+                  | Apacible / silencioso / relajante
+                li.d-flex.mb-0
+                  i.fas.fa-minus.fa-xs.mt-2
+                  | Tradicional
 
     separador
     
@@ -484,29 +496,35 @@
               figure
                 img.w-120.mb-4.mb-lg-0(src="@/assets/curso/tema2/51.svg", alt="", data-aos="fade-down-right")
             .col-lg-8
-              h5.mb-4 #[em Scale]
+              h5.mb-4 #[em Other classification]
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Luxury Chains]
+                  | #[em Airport hotels]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Upper Upscale Chains]
+                  | #[em Business class or business hotel]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Upscale Chains]
+                  | #[em Luxury hotels]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Upper Midscale Chains]
+                  | #[em Motels]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Midscale Chains]
+                  | #[em Resorts]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Economy Chains]
+                  | #[em Casino hotels]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Independent Hotels]
+                  | #[em Club hotels]
+                li.d-flex.mb-0
+                  i.fas.fa-minus.fa-xs.mt-2
+                  | #[em Themed hotels]
+                li.d-flex.mb-0
+                  i.fas.fa-minus.fa-xs.mt-2
+                  | #[em Historic hotels (Heritage)]
       .col-lg-6.mb-4.mb-lg-0
         .rounded-4.h-100.overflow-hidden.bg-img.bg-img--7.p-4
           .row.justify-content-center.align-items-center
@@ -514,29 +532,35 @@
               figure
                 img.w-120.mb-4.mb-lg-0(src="@/assets/curso/tema2/51.svg", alt="", data-aos="fade-down-right")
             .col-lg-8
-              h5.mb-4 Escala
+              h5.mb-4 Otros tipos de clasificación
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas de nivel Lujo
+                  | Hoteles de aeropuerto
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Superior exclusivo
+                  | Hotel de negocios
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Exclusivo
+                  | Hoteles de lujo
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Superior medio
+                  | Moteles
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Medio
+                  | Resorts
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Económico
+                  | Hoteles casinos
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles Independientes
+                  | Hoteles clubes
+                li.d-flex.mb-0
+                  i.fas.fa-minus.fa-xs.mt-2
+                  | Hoteles temáticos
+                li.d-flex.mb-0
+                  i.fas.fa-minus.fa-xs.mt-2
+                  | Hoteles históricos (Patrimonio)
 
     .p-3.rounded-top-4.bg-secundario-s20.mb-0
       p.mb-0.text-white #[em Data of interest] // Dato de interés:
@@ -547,8 +571,8 @@
   
     separador
     
-    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.4 #[em Characteristics] // Características
+    #t_2_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 2.5 #[em Geographical locations] // Ubicaciones geográficas
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4

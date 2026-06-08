@@ -34,27 +34,28 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: '<em>Category</em>',
+            titulo: '<em>Category</em> // Categoría',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: '<em>Class</em>',
+            titulo: '<em>Class</em> // Clase',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
-            titulo: '<em>Types</em>',
+            titulo: '<em>Types</em> // Tipología',
             hash: 't_2_3',
           },
           {
             numero: '2.4',
-            titulo: '<em>Characteristics</em>',
+            titulo: '<em>Characteristics</em> // Características',
             hash: 't_2_4',
           },
           {
             numero: '2.5',
-            titulo: '<em>Geographical locations</em>',
+            titulo:
+              '<em>Geographical locations</em> // Ubicaciones geográficas',
             hash: 't_2_5',
           },
         ],
@@ -71,6 +72,20 @@ export default {
         numero: '4',
         titulo: '<em>Organizational structure</em>',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo:
+              '<em>Positions, duties, responsibilities, profiles</em> // Cargos, deberes, responsabilidades, perfiles',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo:
+              '<em>Jobs and professions in the tourism sector</em> // Empleos y profesiones en el sector turístico',
+            hash: 't_4_2',
+          },
+        ],
       },
       {
         nombreRuta: 'tema5',
@@ -105,7 +120,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/dist.pdf',
+        download: 'downloads/621602_CF9_DU.pdf',
       },
       {
         icono: 'fas fa-download',
