@@ -42,67 +42,187 @@
     .p-4.rounded-4.bg-acento-contenido-a5.mb-4
       p.mb-0 Las áreas públicas son espacios diseñados para que huéspedes y visitantes interactúen, descansen y accedan a los servicios del hotel. Estas áreas suelen ser cómodas, accesibles y estar equipadas para brindar una experiencia agradable durante la estadía. A continuación, se presentan algunos ejemplos de las áreas públicas más comunes en un hotel.
 
-    .row.justify-content-center.align-items-center.mb-4.mb-lg-5
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/4.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/5.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/6.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/7.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/8.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/9.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/10.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/11.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/12.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/13.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/14.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/15.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/16.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/17.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/18.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/19.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/20.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/21.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/22.svg", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3(src="@/assets/curso/tema3/23.svg", alt="")
+    .row.justify-content-center.align-items-center.mb-4
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/4.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Lounge Business Center]
+              p.mb-0.text-center Salón privado
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/5.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Swimming Pool]
+              p.mb-0.text-center Piscina
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/6.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Bar]
+              p.mb-0.text-center Bar
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/7.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Event Venues]
+              p.mb-0.text-center Salones para eventos
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/8.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Balcony]
+              p.mb-0.text-center Balcón
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/9.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Business Center]
+              p.mb-0.text-center Centro de negocios
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/10.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Elevator]
+              p.mb-0.text-center Ascensor
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/11.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Rooms Aisle]
+              p.mb-0.text-center Pasillo de habitaciones
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/12.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Sauna]
+              p.mb-0.text-center Sauna
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/13.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Gym]
+              p.mb-0.text-center Gimnasio
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/14.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Spa]
+              p.mb-0.text-center Spa
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/15.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Turkish Bath]
+              p.mb-0.text-center Baño Turco
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/16.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Rooms]
+              p.mb-0.text-center Habitaciones
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/17.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Coffe-shop]
+              p.mb-0.text-center Cafetería
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/18.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Children facilities]
+              p.mb-0.text-center Instalaciones para niños
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/19.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Restaurant]
+              p.mb-0.text-center Restaurante
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/20.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Bathrooms]
+              p.mb-0.text-center Baños
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/21.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Lobby]
+              p.mb-0.text-center Vestíbulo
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/22.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Main access]
+              p.mb-0.text-center Acceso principal
+      .col-sm-6.col-lg-5.col-xl-3.mb-3
+        .bg-img.bg-img--2.rounded-4.p-3
+          .row.align-items-center
+            .col-4
+              figure
+                img.w-65(src="@/assets/curso/tema3/23.svg", alt="")
+            .col-8.p-0
+              p.mb-1.text-center #[em Front Desk]
+              p.mb-0.text-center Mostrador
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0 #[em Services] // Servicios
@@ -117,73 +237,73 @@
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/24.png' alt='')
-          h5.text-center.mb-0 24-hour Front Desk
+          h5.text-center.mb-0 #[em 24-hour Front Desk]
           p.text-center.mb-0 Recepción 24 horas
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/25.png' alt='')
-          h5.text-center.mb-0 Bellboy
+          h5.text-center.mb-0 #[em Bellboy]
           p.text-center.mb-0 Botones
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/26.png' alt='')
-          h5.text-center.mb-0 Wheelchair access
+          h5.text-center.mb-0 #[em Wheelchair access]
           p.text-center.mb-0 Acceso en silla de ruedas
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/27.png' alt='')
-          h5.text-center.mb-0 Credit cards accepted
+          h5.text-center.mb-0 #[em Credit cards accepted]
           p.text-center.mb-0 Tarjetas de crédito aceptadas
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/28.png' alt='')
-          h5.text-center.mb-0 Pet friendly
+          h5.text-center.mb-0 #[em Pet friendly]
           p.text-center.mb-0 Aceptan mascotas
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/29.png' alt='')
-          h5.text-center.mb-0 24-hour Room service
+          h5.text-center.mb-0 #[em 24-hour Room service]
           p.text-center.mb-0 Servicio a la habitación 24 horas
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/30.png' alt='')
-          h5.text-center.mb-0 Shuttle service
+          h5.text-center.mb-0 #[em Shuttle service]
           p.text-center.mb-0 Servicio de transporte
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/31.png' alt='')
-          h5.text-center.mb-0 Online reservation
+          h5.text-center.mb-0 #[em Online reservation]
           p.text-center.mb-0 Reserva en línea
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/32.png' alt='')
-          h5.text-center.mb-0 Concierge service
+          h5.text-center.mb-0 #[em Concierge service]
           p.text-center.mb-0 Servicio de conserjería
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/33.png' alt='')
-          h5.text-center.mb-0 Security
+          h5.text-center.mb-0 #[em Security]
           p.text-center.mb-0 Seguridad
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/34.png' alt='')
-          h5.text-center.mb-0 Satellite TV
+          h5.text-center.mb-0 #[em Satellite TV]
           p.text-center.mb-0 Televisión satelital
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/35.png' alt='')
-          h5.text-center.mb-0 Wi-Fi free access
+          h5.text-center.mb-0 #[em Wi-Fi free access]
           p.text-center.mb-0 Acceso a Wi-Fi gratuito
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")

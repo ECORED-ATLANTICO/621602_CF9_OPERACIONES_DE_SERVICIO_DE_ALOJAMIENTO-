@@ -301,7 +301,7 @@
         img.mb-4.mb-lg-0(src="@/assets/curso/tema1/9.png" alt="" data-aos="zoom-in-down")
       .col-sm-10.col-lg-7.col-xl-5
         .p-4.bg-acento-botones-a5.rounded-4.mb-4.mb-lg-0
-          ul.checklist
+          ul.checklist.mb-0
             li.d-flex.ms-3
               p.mb-0 Take notes of the ideas.
             li.d-flex.ms-3
@@ -325,7 +325,7 @@
         img.mb-4.mb-lg-0(src="@/assets/curso/tema1/11.png" alt="" data-aos="zoom-in-down")
       .col-sm-10.col-lg-7.col-xl-5
         .p-4.bg-acento-botones-a5.rounded-4.mb-4.mb-lg-0
-          ul.checklist
+          ul.checklist.mb-0
             li.d-flex.ms-3
               p.mb-0 Tomar notas de las ideas. 
             li.d-flex.ms-3

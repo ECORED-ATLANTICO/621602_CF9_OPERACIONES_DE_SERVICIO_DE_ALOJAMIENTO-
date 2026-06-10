@@ -84,63 +84,63 @@
           p.mb-0 Las principales responsabilidades del gerente de recepción incluyen la revisión del informe final de la auditoría nocturna, la supervisión diaria de los procedimientos de recepción, un análisis de los resultados operativos y comerciales del departamento; el funcionamiento y la supervisión del sistema de reservas; mantener una comunicación asertiva con el personal a su cargo y otros directores de departamento; supervisar los registros y pagos diarios; programar los turnos y velar por el desarrollo de los empleados; establecer programas internos de ventas en la recepción; preparar presupuestos, y atención y resolución de PQRS.
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema4/6.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema4/6.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Front office manager</em> // Gerente de recepción")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em The night auditor has multiple responsibilities in addition to preparing the night audit report. This person must also register guests who arrive after 10:00 p.m., and give departure to those who do so before 6:00 a. m. Within his or her tasks are to process reservations, perform security supervisor tasks, monitor fire safety systems, act as a cashier for banquet functions and perform the work of shift manager. The night auditor acts as a communication link between the guest and the hotel’s operations during the shift from 10:00 p.m. to 6:00 a.m.]
           p.mb-0 El auditor nocturno tiene múltiples responsabilidades además de preparar el informe de auditoría nocturna. Esta persona también debe registrar a los huéspedes que llegan después de las 10:00 p.m., y dar salida a quienes lo hacen antes de 6:00 a.m. Dentro de sus labores está procesar reservas, realizar tareas de supervisor de seguridad, monitorear los sistemas de seguridad contra incendios, actuar como cajero para las funciones de banquete y realizar el trabajo de gerente de turno. El auditor nocturno actúa como un enlace de comunicación entre el huésped y las operaciones del hotel durante el turno de 10:00 p.m. a 6:00 a.m.
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema4/7.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema4/7.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Night auditor</em> // Auditor nocturno")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em The responsibilities of the reception staff are very varied. The desk clerk can encompass many duties, typically including verifying guest reservations, registering guests, assigning rooms, distributing keys, communicating with cleaning staff, answering phones, providing information and directions to local attractions, accepting cash and giving change, and acting as a liaison between the accommodation establishment and the guest, as well as with the community. As cashier, the functions include the processing of guest accounts, payments and change for guests during the check-out.]
           p.mb-0 Las responsabilidades del personal de recepción son muy variadas. El recepcionista puede abarcar muchos deberes, que típicamente incluyen verificar las reservas de los huéspedes, registrar a los huéspedes, asignar habitaciones, distribuir llaves, comunicarse con el personal de limpieza, contestar los teléfonos, proporcionar información y direcciones a las atracciones locales, aceptar dinero en efectivo y dar cambio, y actuar como enlace entre el establecimiento de alojamiento y el huésped, así como con la comunidad. Como cajero, las funciones incluyen el procesamiento de las cuentas huésped, los pagos y el cambio para los huéspedes durante el registro de salida.
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema4/8.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema4/8.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Bellboy </em> // Botones")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em The bellboy helps with luggage both at check-in and check-out. In addition, this person is an informant and support in coordination of services for guests. He or she is responsible for the luggage in custody.]
           p.mb-0 El botones presta ayuda con el equipaje tanto en el registro como en la salida. Además, informa y apoya en la coordinación de servicios para los huéspedes. Es responsable del equipaje en custodia.
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema4/9.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema4/9.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Housekeeper</em> // Ama de llaves")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em The executive housekeeper is responsible for the maintenance of the rooms and public areas of the property. This person coordinates the work of the team with the aim of keeping the property spotless.]
           p.mb-0 El ama de llaves ejecutiva es responsable del mantenimiento de las habitaciones y las áreas públicas de la propiedad. Esta persona coordina el trabajo del equipo con el objetivo de mantener la propiedad impecable.
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema4/10.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema4/10.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Floor supervisor</em> // Supervisor de piso")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em The floor supervisor oversees the cleaning function of one or more floors of a hotel, and must be fully trained in cleaning techniques, standard inspection techniques, and assist in the provision of supplies to maids.]
           p.mb-0 El supervisor de piso supervisa la función de limpieza de uno o varios pisos de un hotel, y debe estar completamente capacitado en técnicas de limpieza, técnicas de inspección estándar y ayudar en la provisión de suministros a las camareras.  
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema4/11.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema4/11.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Laundry supervisor</em> // Supervisor de lavandería")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em The laundry supervisor coordinates the area staff to maintain the washing and provision of linens for the hotel´s operation, as well as the attention of washing uniforms, and clothing from guests and external customers.]
           p.mb-0 El supervisor de lavandería coordina el personal del área para mantener el lavado y la provisión de la ropa de cama para la operación del hotel, así como la atención del lavado de uniformes y ropa de los huéspedes y clientes externos.
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema4/12.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema4/12.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Laundry staff</em> // Personal de lavandería")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em Their main responsibility is to execute the tasks of the laundry area, such as washing, drying, and ironing the linens of the hotel. They also process washing orders from guests and external customers.]
           p.mb-0 Su principal responsabilidad es la de ejecutar las labores del área de lavandería, como lavar, secar y planchar las ropas de cama del hotel. También procesan las órdenes de lavado de los huéspedes y los clientes externos.
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema4/13.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema4/13.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Maid</em> // Camarera")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em The maids are the hotel’s basic cleaning staff. They must be trained in cleaning and self-inspection techniques. Speed and efficiency are paramount in performing the vital maintenance service of rooms and public areas.]
           p.mb-0 Las camareras son el personal de base de limpieza del hotel. Deben estar capacitadas en técnicas de limpieza y autoinspección. La velocidad y la eficiencia son primordiales en la realización del servicio vital de mantenimiento de las habitaciones y las áreas públicas.  
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema4/14.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema4/14.png", alt="")
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0 #[em Financial Department] // Departamento financiero

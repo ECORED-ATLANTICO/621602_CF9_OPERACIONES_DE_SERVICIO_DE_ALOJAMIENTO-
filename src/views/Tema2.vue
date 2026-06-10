@@ -37,7 +37,7 @@
     .p-4.rounded-4.bg-secundario-s5.mb-5
       p.mb-0.text-center Criterios de evaluación para el otorgamiento del certificado de categorización por estrellas para los hoteles en las modalidades 1, 2, 3, 4 y 5. Están establecidas de la siguiente manera: 
 
-    SlyderF(columnas="col-md-6 col-xl-4").mb-4.mb-lg-5
+    SlyderF(columnas="col-lg-6 col-xl-4").mb-4.mb-lg-5
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
@@ -451,42 +451,42 @@
           p.mb-0 Este tipo de alojamiento se caracteriza por brindar espacios compartidos a bajo costo y donde los huéspedes pueden alquilar una cama, generalmente una litera en un dormitorio, con uso compartido de baño, cocina y áreas sociales.
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema2/39.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema2/39.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Aparthotel</em> // Aparta Hotel")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em An aparthotel is a type of housing unit (apartments) with full kitchen and furnishing, but with limited services and staff, which operates with a reservation system in the same way as a hotel. It is focused on long stays.]
           p.mb-0 Un aparta hotel es un tipo de unidad habitacional (apartamentos) con cocina y amoblamiento completo, pero con servicios y personal limitados, que opera con un sistema de reservas similar a un hotel. Está enfocado en largas estadías.
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema2/40.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema2/40.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Lodge</em> // Cabaña")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em A lodge is a small house or cottage in the vicinity of a park, in a natural environment. Originally, it is a place of rest, a refuge, for hunters, fishermen, or sportsmen. Now, applied to the hotel industry, it should be a small place, built permanently (with walls), local materials, minimal environmental impact, committed to the local culture, and offering the guest everything they need for their rest while performing one of these practices. Here it is known as Rural Accommodation.]
           p.mb-0 Un lodge es una pequeña casa o cabaña en las cercanías de un parque, en un entorno natural. Originalmente, es un lugar de descanso, un refugio, para cazadores, pescadores, deportistas. Ahora, aplicado a la hotelería, debe ser un lugar pequeño, construido de manera permanente (con muros), materiales locales, mínimo impacto ambiental, comprometido con la cultura local y que ofrece al huésped todo lo que necesita para su descanso mientras realiza una de estas prácticas. Aquí es conocido como Alojamiento Rural.
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema2/41.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema2/41.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Hotel</em> // Hotel")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em A hotel is a building planned and equipped to provide lodging services that are generally reserved in advance. Services in addition to lodging include restaurants, swimming pools, stores, spa and day care centers.]
           p.mb-0 Un hotel es un edificio planificado y acondicionado para atender los servicios de alojamiento que generalmente se reservan con antelación. Entre los servicios adicionales al alojamiento, se encuentran restaurantes, piscinas, tiendas, spas y guarderías.
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema2/42.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema2/42.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Camping</em> // Acampar")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em Campsites are outdoor places, with a basic conditioning to cater people who make use of them in exchange for a set amount of money. Usually, these spaces have facilities such as bathrooms, bar, restaurant, or social area.]
           p.mb-0 Los campings son lugares al aire libre, con un acondicionamiento básico para atender a las personas que hacen uso de ellos a cambio de una cantidad fija de dinero. Por lo general, estos espacios tienen instalaciones como baños, bar, restaurante o área social.
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema2/43.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema2/43.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Glamping</em> // Glamping")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em Glamping is a globally growing trend, that combines the experience of outdoor camping with the luxury and conditions of the best hotels. The term was invented at the end of the prior century as a fusion of the words glamour and camping.]
           p.mb-0 Es una tendencia creciente a nivel mundial, que combina la experiencia de acampar al aire libre con el lujo y las condiciones de los mejores hoteles. El término fue inventado a finales del siglo anterior como una fusión de las palabras glamour y camping.
         .col-sm-8.col-lg-4.col-xl-3
           figure
-            img(src="@/assets/curso/tema2/44.png", alt="" data-aos="zoom-in-down")
+            img(src="@/assets/curso/tema2/44.png", alt="")
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
       .col-lg-6.mb-4.mb-lg-0
