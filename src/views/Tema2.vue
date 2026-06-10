@@ -571,6 +571,181 @@
   
     separador
     
+    #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
+      h2 2.4 #[em Characteristics] // Características
+
+    .mt-5.pt-4
+      .fullwidth-bg.fullwidth-bg--1
+      img(data-aos="fade-up")(src="@/assets/curso/tema2/52.png", alt="").z-2
+      
+    .row.justify-content-center.z-2.mb-3
+      .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
+        div.banner-text.shadow
+          p.mb-0.text-center #[em A lodging establishment can offer more than the provision of a room. The client can request complementary services during their stay and the hotel provides them as part of the services.]
+          p.mb-0.text-center #[em The following are considered complementary services:]
+
+    .p-4.rounded-4.bg-acento-contenido-a5.mb-4
+      p.mb-0 Un establecimiento de alojamiento puede ofrecer más que la disposición de una habitación. El cliente puede solicitar servicios complementarios durante su estancia y el hotel los presta como parte de los servicios. Los siguientes se consideran servicios complementarios:
+
+    SlyderF(columnas="col-md-6 col-xl-4").mb-4.mb-lg-5
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/tema2/53.svg' alt='')
+        p.mb-0.text-center #[strong #[em Restaurant and room service]]
+        p.mb-0.text-center Restaurante y servicio a la habitación
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/tema2/54.svg' alt='')
+        p.mb-0.text-center #[strong #[em Venue rooms]]
+        p.mb-0.text-center Salones de eventos
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/tema2/55.svg' alt='')
+        p.mb-0.text-center #[strong #[em Commercial spaces]]
+        p.mb-0.text-center Locales comerciales
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/tema2/56.svg' alt='')
+        p.mb-0.text-center #[strong #[em 24-hour front desk]]
+        p.mb-0.text-center Recepción y atención permanente
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/tema2/57.svg' alt='')
+        p.mb-0.text-center #[strong #[em Safe box]]
+        p.mb-0.text-center Cajilla de seguridad
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/tema2/58.svg' alt='')
+        p.mb-0.text-center #[strong #[em Daily cleaning of the rooms:]]
+        p.mb-0.text-center Limpieza periódica del alojamiento
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/tema2/59.svg' alt='')
+        p.mb-0.text-center #[strong #[em Periodic change of bedding]]
+        p.mb-0.text-center Cambio periódico de ropa de cama
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/tema2/60.svg' alt='')
+        p.mb-0.text-center #[strong #[em Periodic change of towels]]
+        p.mb-0.text-center Cambio periódico de toallas
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/tema2/61.svg' alt='')
+        p.mb-0.text-center #[strong #[em Additional services]]
+        p.mb-0.text-center Prestación de servicios adicionales
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/tema2/62.svg' alt='')
+        p.mb-0.text-center #[strong #[em Laundry]]
+        p.mb-0.text-center Lavandería
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/tema2/63.svg' alt='')
+        p.mb-0.text-center #[strong #[em Pressing]]
+        p.mb-0.text-center Planchado
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/tema2/64.svg' alt='')
+        p.mb-0.text-center #[strong #[em Luggage custody]]
+        p.mb-0.text-center Custodia de maletas
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/tema2/65.svg' alt='')
+        p.mb-0.text-center #[strong #[em Newspaper]]
+        p.mb-0.text-center Periódico
+      .tarjeta.bg-img.bg-img--3.p-4.py-5
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/tema2/66.svg' alt='')
+        p.mb-0.text-center #[strong #[em Package holiday:]]
+        p.mb-0.text-center Paquete turístico
+
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5
+      .col-sm-10.col-lg-5
+        figure
+          img.mb-4.mb-lg-0(src="@/assets/curso/tema2/67.png", alt="" data-aos="zoom-in-down")
+      .col-lg-7
+        LineaTiempoD.color-primario.mb-4
+          .row.justify-content-center(numero="1" titulo="<em>Types of holiday</em> / Tipos de vacaciones")
+            .col-xl-8
+              .p-3.rounded-4.bg-secundario-s10.mb-3
+                .row.justify-content-center.align-items-center
+                  .col-6
+                    p.mb-0 #[em Cruise]
+                    p.mb-0 #[em Winter sports]
+                    p.mb-0 #[em Mini-break]
+                    p.mb-0 #[em Honeymoon]
+                    p.mb-0 #[em Adventure]
+                  .col-6
+                    p.mb-0 Crucero
+                    p.mb-0 Deportes de invierno
+                    p.mb-0 Mini-vacaciones
+                    p.mb-0 Luna de miel
+                    p.mb-0 Aventura
+          .row(numero="2" titulo="<em>Ancillary services</em> / Servicios complementarios")
+            .col-xl-8
+              .p-3.rounded-4.bg-secundario-s10.mb-3
+                .row.justify-content-center
+                  .col-6
+                    p.mb-0 #[em Visa]
+                    p.mb-0 #[em All-inclusive]
+                    p.mb-0 #[em Insurance]
+                    p.mb-0 #[em Foreign exchange]
+                    p.mb-0 #[em Transfer]
+                    p.mb-0 #[em Equipment hire]
+                  .col-6
+                    p.mb-0 Visa
+                    p.mb-0 Todo incluido
+                    p.mb-0 Seguro
+                    p.mb-0 Cambio de moneda
+                    p.mb-0 Transferir
+                    p.mb-0 Alquiler de equipos
+          .row(numero="3" titulo="<em>Accommodation</em> / Alojamiento")
+            .col-xl-8
+              .p-3.rounded-4.bg-secundario-s10.mb-3
+                .row.justify-content-center
+                  .col-6
+                    p.mb-0 #[em Visa]
+                    p.mb-0 #[em All-inclusive]
+                    p.mb-0 #[em Insurance]
+                    p.mb-0 #[em Foreign exchange]
+                    p.mb-0 #[em Transfer]
+                    p.mb-0 #[em Equipment hire]
+                  .col-6
+                    p.mb-0 Visa
+                    p.mb-0 Todo incluido
+                    p.mb-0 Seguro
+                    p.mb-0 Cambio de moneda
+                    p.mb-0 Transferir
+                    p.mb-0 Alquiler de equipos
+          .row(numero="4" titulo="<em>Transportation</em> / Transporte")
+            .col-xl-8
+              .p-3.rounded-4.bg-secundario-s10.mb-3
+                .row.justify-content-center
+                  .col-6
+                    p.mb-0 #[em Charter flight]
+                    p.mb-0 #[em Luxury car]
+                    p.mb-0 #[em Scheduled flight]
+                  .col-6
+                    p.mb-0 Vuelo charter
+                    p.mb-0 Carro de lujo
+                    p.mb-0 Vuelo programado
+
+    separador
+    
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
       h2 2.5 #[em Geographical locations] // Ubicaciones geográficas
 
@@ -597,7 +772,7 @@
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0 #[em Hotel guests require key information such as the following.]
 
-    .p-4.rounded-4.bg-secundario-s10.mb-3
+    .p-4.rounded-4.bg-secundario-s10.mb-4
       p.mb-0.text-center Los huéspedes del hotel requieren información clave como la siguiente.
 
     .row.justify-content-center.align-items-center
