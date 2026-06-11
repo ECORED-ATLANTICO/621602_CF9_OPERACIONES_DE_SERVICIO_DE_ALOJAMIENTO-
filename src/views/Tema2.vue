@@ -782,20 +782,20 @@
             .col-lg-11
               h4.mb-0 #[em Food and drink]
               p #[em Bars / restaurants / takeaways / local specialities]
-              h4.mb-0 #[em Comidas y bebidas]
-              p.mb-0 #[em Bares / restaurantes / comida para llevar / especialidades locales]
+              h4.mb-0 Comidas y bebidas
+              p.mb-0 Bares / restaurantes / comida para llevar / especialidades locales
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
               h4.mb-0 #[em Sightseeing]
               p #[em Museums / galleries historic monuments parks / gardens]
-              h4.mb-0 #[em Turismo]
+              h4.mb-0 Turismo
               p.mb-0 Museos / galerías monumentos históricos / parques / jardines
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
               h4.mb-0 #[em Entertainment]
               p #[em Discos / nightclubs / shows / festivals / concerts halls / funfairs]
-              h4.mb-0 #[em Entretenimiento]
-              p.mb-0 #[em Discotecas / clubes nocturnos / espectáculos / festivales / salas de conciertos / ferias]
+              h4.mb-0 Entretenimiento
+              p.mb-0 Discotecas / clubes nocturnos / espectáculos / festivales / salas de conciertos / ferias
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
               h4.mb-0 #[em Climate]
