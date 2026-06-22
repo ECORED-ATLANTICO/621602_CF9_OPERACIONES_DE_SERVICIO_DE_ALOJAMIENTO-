@@ -26,7 +26,7 @@
       .col-lg-12
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 3. 
-            span Hotel Organization Chart // Organigrama del hotel
+            span #[em Hotel Organization Chart] // Organigrama del hotel
         img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema4/2-mob.svg", alt="Organigrama de un hotel. En la parte superior se encuentra el “Gerente General”. Debajo se dividen cinco áreas principales: “Gerente de recepción”, “Ama de llaves”, “Gerente de A&B”, “Contralora” y “Mantenimiento”. El área de recepción incluye “Auditor Nocturno”, luego “Recepcionista” y finalmente “Botones”. El área de ama de llaves incluye “Supervisor de Piso” con “Camareras”, y “Supervisor de lavandería” con “Personal de Lavandería”. El área de alimentos y bebidas incluye “Chef” con “Cocinero” y “Lava Platos”; además “Mayordomo” con “Anfitrión” y “Meseros”. El área administrativa incluye “Cajero General” y debajo “Auxiliar Contable”. El área de mantenimiento incluye “Asistente de Mantenimiento”. El diseño utiliza íconos circulares de personas conectados por líneas jerárquicas sobre fondo gris claro.")
         img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema4/2.svg", alt="Organigrama de un hotel. En la parte superior se encuentra el “Gerente General”. Debajo se dividen cinco áreas principales: “Gerente de recepción”, “Ama de llaves”, “Gerente de A&B”, “Contralora” y “Mantenimiento”. El área de recepción incluye “Auditor Nocturno”, luego “Recepcionista” y finalmente “Botones”. El área de ama de llaves incluye “Supervisor de Piso” con “Camareras”, y “Supervisor de lavandería” con “Personal de Lavandería”. El área de alimentos y bebidas incluye “Chef” con “Cocinero” y “Lava Platos”; además “Mayordomo” con “Anfitrión” y “Meseros”. El área administrativa incluye “Cajero General” y debajo “Auxiliar Contable”. El área de mantenimiento incluye “Asistente de Mantenimiento”. El diseño utiliza íconos circulares de personas conectados por líneas jerárquicas sobre fondo gris claro.")
         figcaption Nota. SENA, (2021).
@@ -34,7 +34,7 @@
     separador
     
     #t_4_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 4.1 Positions, duties, responsibilities, profiles // Cargos, deberes, responsabilidades, perfiles
+      h2 4.1 #[em Positions, duties, responsibilities, profiles] // Cargos, deberes, responsabilidades, perfiles
 
     .mt-5.pt-4
       .fullwidth-bg.fullwidth-bg--1
@@ -51,7 +51,7 @@
       p.mb-0 Son guías y orientaciones para que el personal desarrolle las rutinas o tareas diarias de la operación del hotel. De esta manera, podrán tomar las decisiones más acertadas apoyados en las directivas de sus superiores, estableciendo con claridad la responsabilidad y obligaciones de cada uno de los cargos. Se detallan algunas de ellas.
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 #[em Administrative department // Department administration] #[br] #[em General manager] // Gerente general
+      h5.mb-0 #[em Administrative department] // Departamento de administración #[br] #[em General manager] // Gerente general
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
@@ -85,14 +85,14 @@
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema4/6.png", alt="")
-      .row.justify-content-center.align-items-center(titulo="<em>Front office manager</em> // Gerente de recepción")
+      .row.justify-content-center.align-items-center(titulo="<em>Night auditor</em> // Auditor nocturno")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em The night auditor has multiple responsibilities in addition to preparing the night audit report. This person must also register guests who arrive after 10:00 p.m., and give departure to those who do so before 6:00 a. m. Within his or her tasks are to process reservations, perform security supervisor tasks, monitor fire safety systems, act as a cashier for banquet functions and perform the work of shift manager. The night auditor acts as a communication link between the guest and the hotel’s operations during the shift from 10:00 p.m. to 6:00 a.m.]
           p.mb-0 El auditor nocturno tiene múltiples responsabilidades además de preparar el informe de auditoría nocturna. Esta persona también debe registrar a los huéspedes que llegan después de las 10:00 p.m., y dar salida a quienes lo hacen antes de 6:00 a.m. Dentro de sus labores está procesar reservas, realizar tareas de supervisor de seguridad, monitorear los sistemas de seguridad contra incendios, actuar como cajero para las funciones de banquete y realizar el trabajo de gerente de turno. El auditor nocturno actúa como un enlace de comunicación entre el huésped y las operaciones del hotel durante el turno de 10:00 p.m. a 6:00 a.m.
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema4/7.png", alt="")
-      .row.justify-content-center.align-items-center(titulo="<em>Night auditor</em> // Auditor nocturno")
+      .row.justify-content-center.align-items-center(titulo="<em>Desk Clerks</em> // Recepcionistas")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em The responsibilities of the reception staff are very varied. The desk clerk can encompass many duties, typically including verifying guest reservations, registering guests, assigning rooms, distributing keys, communicating with cleaning staff, answering phones, providing information and directions to local attractions, accepting cash and giving change, and acting as a liaison between the accommodation establishment and the guest, as well as with the community. As cashier, the functions include the processing of guest accounts, payments and change for guests during the check-out.]
           p.mb-0 Las responsabilidades del personal de recepción son muy variadas. El recepcionista puede abarcar muchos deberes, que típicamente incluyen verificar las reservas de los huéspedes, registrar a los huéspedes, asignar habitaciones, distribuir llaves, comunicarse con el personal de limpieza, contestar los teléfonos, proporcionar información y direcciones a las atracciones locales, aceptar dinero en efectivo y dar cambio, y actuar como enlace entre el establecimiento de alojamiento y el huésped, así como con la comunidad. Como cajero, las funciones incluyen el procesamiento de las cuentas huésped, los pagos y el cambio para los huéspedes durante el registro de salida.
@@ -141,6 +141,91 @@
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema4/14.png", alt="")
+
+    .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
+      h5.mb-0 #[em Food and beverage department] // Departamento de alimentos y bebidas
+
+    .mt-5.pt-4
+      .fullwidth-bg.fullwidth-bg--1
+      img(data-aos="fade-up")(src="@/assets/curso/tema4/15.png", alt="").z-2
+      
+      .row.justify-content-center.z-2.mb-3
+        .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
+          div.banner-text.shadow
+            p.mb-0 #[em The food and beverage department is responsible for preparing, serving, and managing food and drinks within a hotel or hospitality establishment. This department plays an important role in guest satisfaction by providing quality service, cleanliness, and a pleasant dining experience. Different professionals work in this department, such as chefs, cooks, waiters, bartenders, and kitchen assistants. Each person has specific responsibilities to ensure efficient service and customer satisfaction.]
+            p.mb-0 #[em Below are some of the most common positions and areas within the Food and Beverage Department.]
+
+    .p-4.rounded-4.bg-secundario-s5.mb-4
+      p.mb-0 El departamento de alimentos y bebidas es responsable de preparar, servir y gestionar los alimentos y bebidas dentro de un hotel o establecimiento turístico. Este departamento cumple un papel importante en la satisfacción de los huéspedes, ofreciendo un servicio de calidad, limpieza y una experiencia agradable durante el consumo. En este departamento trabajan diferentes profesionales, como chefs, cocineros, meseros, bartenders y auxiliares de cocina. Cada persona cumple funciones específicas para garantizar un servicio eficiente y la satisfacción del cliente.
+      p.mb-0 A continuación, se presentan algunos de los cargos y áreas más comunes del departamento de alimentos y bebidas.
+
+    .bg-fondo-slider.tarjeta.mb-5
+      .p-4.p-lg-5
+        SlyderA(tipo="b").bg-white.p-4.tarjeta
+          .row.justify-content-center.align-items-center
+            .col-lg-9
+              h4 F&B manager // Gerente de alimentos y bebidas
+              p #[em The food and beverage manager is responsible for the efficient operation of the kitchen, dining rooms, banquet service, room service, and executive lounge. This includes managing a multitude of details such as food quality, sanitation, inventory, cost control, staff training, revenue control, and guest service, just to name a few. In addition, this person should closely monitor trends in the marketing of food and beverages, and factors in food and beverage preparation and public services.]
+              p.mb-4.mb-lg-0 El gerente de alimentos y bebidas es responsable del funcionamiento eficiente de la cocina, los comedores, el servicio de banquetes, el servicio de habitaciones y el salón ejecutivo. Esto incluye la gestión de una multitud de detalles, como la calidad de los alimentos, el saneamiento, el inventario, el control de costos, la capacitación del personal, el control de ingresos y el servicio al huésped, por nombrar algunos. Además, debe vigilar atentamente las tendencias en la comercialización de alimentos y bebidas y los factores de control en la preparación de alimentos y bebidas y los servicios públicos de cocina.
+            .col-10.col-sm-6.col-lg-2
+              figure
+                img(src='@/assets/curso/tema4/28.png', alt='')
+          .row.justify-content-center.align-items-center
+            .col-lg-9
+              h4 Chef // Chef
+              p #[em The Chef supervises the hotel´s kitchen, managing the food preparation team. The main responsibility is to create the menu, making the decision of which dishes to serve and adjusting them to the brand standards. On a day-to-day basis, he supervises the orders of guests and customers, ensuring the quality of the food in presentation and preparation. Occasionally, this person can assist in the preparation work, but their main responsibilities are administrative, such as overseeing the efficient use of equipment and raw materials, maintaining a very high level in the kitchen operation.]
+              p.mb-4.mb-lg-0 El Chef supervisa la cocina del hotel, gestionando el equipo de preparación de alimentos. La principal responsabilidad es crear el menú, tomando la decisión de qué platos servir y ajustándolos a los estándares de la marca. En el día a día, supervisa los pedidos de los huéspedes y clientes, asegurando la calidad de los alimentos en su presentación y preparación. Ocasionalmente, puede ayudar en el trabajo de preparación, pero sus principales responsabilidades son administrativas, como supervisar el uso eficiente de equipos y materias primas, manteniendo un nivel muy alto en la operación de la cocina.
+            .col-10.col-sm-6.col-lg-2
+              figure
+                img(src='@/assets/curso/tema4/29.png', alt='')
+          .row.justify-content-center.align-items-center
+            .col-lg-9
+              h4 Maître // Maître
+              p #[em The maître is responsible for the atmosphere of the restaurant, which means that they control everything from temperature to volume of music and lighting, to give the restaurant the right atmosphere. This person takes care of receiving each client and acts as chief waiter because he or she oversees all the service staff. He oversees serving VIP customers.]
+              p.mb-4.mb-lg-0 El maître es responsable del ambiente del restaurante, lo que significa que controlan todo, desde la temperatura hasta el volumen de la música y la iluminación, para dar al restaurante el ambiente adecuado. Se encarga de recibir a cada cliente y actúa como camarero jefe porque él o ella está a cargo de todo el personal de servicio. Es quien se encarga de servir a los clientes VIP.
+            .col-10.col-sm-6.col-lg-2
+              figure
+                img(src='@/assets/curso/tema4/30.png', alt='')
+          .row.justify-content-center.align-items-center
+            .col-lg-9
+              h4 Cook // Cocinero
+              p #[em The cook executes the preparation of the meals following the standard recipes. His or her duties include preparing the workplace, adhering to the restaurant menu, and following health and food safety procedures. Cooks, in addition to preparing food, clean and assist other cooks and staff to make food processing work efficiently.]
+              p.mb-4.mb-lg-0 El cocinero ejecuta la preparación de las comidas siguiendo las recetas estándar. Sus deberes incluyen preparar el lugar de trabajo, adherirse al menú del restaurante y seguir los procedimientos de salud y seguridad alimentaria. Los cocineros, además de preparar alimentos, limpian y asisten a otros cocineros y personal para que el procesamiento de alimentos funcione de forma eficiente.
+            .col-10.col-sm-6.col-lg-2
+              figure  
+                img(src='@/assets/curso/tema4/31.png', alt='')
+          .row.justify-content-center.align-items-center
+            .col-lg-9
+              h4 Waiter // Mesero
+              p #[em The waiter organizes the restaurant tables and prepares the necessary elements for the service. Once the service starts, this person offers the menu, suggesting drinks and explaining dishes preparations. He or she transmits the information to the kitchen, is attentive to the output of the dishes and serves his or her customers. He is pending to pick up what the customer no longer uses. He or she ends the service by taking the account and making the payment if it’s necessary.]
+              p.mb-4.mb-lg-0 El mesero se encarga de organizar las mesas del restaurante y preparar los elementos necesarios para el servicio. Una vez inicia el servicio, se encarga de ofrecer el menú, sugerir bebidas y explicar preparaciones. Transmite la información a la cocina, está atento de la salida de sus platos y sirve a sus clientes, está pendiente de recoger lo que ya el cliente no utiliza. Termina el servicio pasando la cuenta y apoyando la gestión de cobro si es el caso.
+            .col-10.col-sm-6.col-lg-2
+              figure
+                img(src='@/assets/curso/tema4/32.png', alt='')
+          .row.justify-content-center.align-items-center
+            .col-lg-9
+              h4 Waiter // Mesero
+              p #[em The waiter organizes the restaurant tables and prepares the necessary elements for the service. Once the service starts, this person offers the menu, suggesting drinks and explaining dishes preparations. He or she transmits the information to the kitchen, is attentive to the output of the dishes and serves his or her customers. He is pending to pick up what the customer no longer uses. He or she ends the service by taking the account and making the payment if it’s necessary.]
+              p.mb-4.mb-lg-0 El mesero se encarga de organizar las mesas del restaurante y preparar los elementos necesarios para el servicio. Una vez inicia el servicio, se encarga de ofrecer el menú, sugerir bebidas y explicar preparaciones. Transmite la información a la cocina, está atento de la salida de sus platos y sirve a sus clientes, está pendiente de recoger lo que ya el cliente no utiliza. Termina el servicio pasando la cuenta y apoyando la gestión de cobro si es el caso.
+            .col-10.col-sm-6.col-lg-2
+              figure
+                img(src='@/assets/curso/tema4/32.png', alt='')
+          .row.justify-content-center.align-items-center
+            .col-lg-9
+              h4 Steward // Steward
+              p #[em His main responsibility is to maintain the cleanliness of the different areas of the kitchen, he must clean floors, walls, and counters. Also, he oversees washing glassware, crockery and cutlery. He manages the warehouses of kitchenware and supports the kitchen service.]
+              p.mb-4.mb-lg-0 Su principal responsabilidad es mantener la limpieza de las diferentes áreas de la cocina, debe limpiar suelos, paredes y mostradores. Además, supervisa el lavado de la cristalería, la vajilla y la cubertería. Gestiona los almacenes de menaje y apoya al servicio de cocina.
+            .col-10.col-sm-6.col-lg-2
+              figure
+                img(src='@/assets/curso/tema4/33.png', alt='')
+          .row.justify-content-center.align-items-center
+            .col-lg-9
+              h4 Host // Anfitrión
+              p #[em The host is responsible for welcoming customers, placing them at their table and offering the menu introducing the waiter who will serve them. This person does reservation control and the best use of the tables. Sometimes he or she also has the custody of coats and other objects left by the client while enjoying the service.]
+              p.mb-4.mb-lg-0 El anfitrión se encarga de dar la bienvenida a los clientes, ubicarlos en su mesa y presentarles la carta, a la vez que presenta al mesero que les atenderá. Es responsable por el control de las reservas y el mayor aprovechamiento de las mesas. En ocasiones, se encarga también de la custodia de abrigos y otros objetos dejados por el cliente mientras disfruta del servicio. 
+            .col-10.col-sm-6.col-lg-2
+              figure
+                img(src='@/assets/curso/tema4/34.png', alt='')
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
       h5.mb-0 #[em Financial Department] // Departamento financiero
@@ -199,14 +284,15 @@
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema4/22.png", alt="" data-aos="zoom-in-down")
       .col-lg-9
-        p.mb-0 The maintenance department is responsible for ensuring the proper functioning, safety, and conservation of the hotel’s facilities, equipment, and systems. Its main objective is to provide comfortable and safe spaces for guests and staff through preventive and corrective maintenance activities.
-        p This department may include professionals such as maintenance technicians, electricians, plumbers, painters, and supervisors. Their work helps maintain the quality and efficiency of hotel operations.
-        p.mb-4 Below are some of the most common positions and functions within the Maintenance Department.
+        p.mb-0 #[em The maintenance department is responsible for ensuring the proper functioning, safety, and conservation of the hotel’s facilities, equipment, and systems. Its main objective is to provide comfortable and safe spaces for guests and staff through preventive and corrective maintenance activities.]
+        p #[em This department may include professionals such as maintenance technicians, electricians, plumbers, painters, and supervisors. Their work helps maintain the quality and efficiency of hotel operations.]
+        p.mb-4 #[em Below are some of the most common positions and functions within the Maintenance Department.]
 
         .p-4.rounded-4.bg-acento-botones-a5.mb-4
           p.mb-0 El Departamento de mantenimiento es responsable de garantizar el correcto funcionamiento, la seguridad y la conservación de las instalaciones, equipos y sistemas del hotel. Su principal objetivo es ofrecer espacios cómodos y seguros para huéspedes y personal mediante actividades de mantenimiento preventivo y correctivo.
           p En este departamento pueden trabajar profesionales como técnicos de mantenimiento, electricistas, plomeros, pintores y supervisores. Su labor contribuye a mantener la calidad y eficiencia de las operaciones hoteleras.
           p.mb-0 A continuación, se presentan algunos de los cargos y funciones más comunes del departamento de mantenimiento.
+
 
     .row.align-items-stretch.mb-5
       .col-lg-6.mb-4.mb-lg-0

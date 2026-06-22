@@ -347,8 +347,8 @@
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
         .bg-acento-contenido-a5.p-4.rounded-4
-          p.mb-4.text-center At the same time, there are several adjectives to express the class and category of a lodging property.
-          p.mb-0.text-center Al mismo tiempo, existen varios adjetivos para expresar la clase y categoría de una propiedad de alojamiento
+          p.mb-4.text-center #[em At the same time, there are several adjectives to express the class and category of a lodging property.]
+          p.mb-0.text-center Al mismo tiempo, existen varios adjetivos para expresar la clase y categoría de una propiedad de alojamiento.
 
     .row.justify-content-center.align-items-stretch
       .col-lg-6.mb-4.mb-lg-0

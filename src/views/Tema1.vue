@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 <em>Simple Present</em> / Presente simple
+      h1 <em>Simple Present</em> // Presente simple
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
@@ -16,7 +16,7 @@
         .p-4.bg-secundario-s5.rounded-4.mb-3
           p.mb-0 Cabe señalar que las oraciones más frecuentes están en presente simple, ya que es un tiempo verbal en inglés que se usa para expresar hábitos, rutinas y eventos. Aprenderá su uso en oraciones y conjugaciones.
         p.mb-0 #[strong #[em Simple Present] // Presente simple.]
-        p The simple present is an-English verbal tense used to express habits, routines, and events. You will learn it's use in sentences and conjugations.
+        p #[em The simple present is an English verbal tense used to express habits, routines, and events. You will learn it's use in sentences and conjugations.]
         p.mb-0 El presente simple es un tiempo verbal del inglés que se usa para expresar hábitos, rutinas y eventos. Aprenderá su uso en oraciones y conjugaciones.
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
@@ -24,14 +24,14 @@
         .p-4.bg-acento-botones-a5.rounded-4.position-relative.h-100
           img.w-85.position-absolute.top-0.end-10.d-none.d-xl-block(src="@/assets/curso/tema1/2.svg")
           p.mb-0 #[strong #[em Grammar] // Gramática]
-          p.mb-0 See the main conditions of use of this verb tense.
+          p.mb-0 #[em See the main conditions of use of this verb tense.]
           p.mb-0 Observa las principales condiciones de uso de este tiempo verbal. 
       .col-lg-4.mb-3
         .p-4.bg-acento-botones-a5.rounded-4.position-relative.h-100
           img.w-85.position-absolute.top-0.end-10.d-none.d-xl-block(src="@/assets/curso/tema1/2.svg")
           p.mb-0 #[strong #[em Affirmative statements]]
           p.mb-0 Oraciones afirmativas
-          p.mb-0 The structure is:
+          p.mb-0 #[em The structure is:]
       .col-8.col-sm-4.col-lg-2
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema1/4.png", alt="" data-aos="zoom-in-down")
@@ -50,7 +50,8 @@
       .col-lg-10.col-xl-8
         .p-3.bg-acento-botones-a5.rounded-4.position-relative.h-100
           img.w-90.position-absolute.end-10.d-none.d-xl-block(src="@/assets/curso/tema1/3.svg")
-          p.mb-0 #[strong #[em Example] / Ejemplo] #[em Example: "Help the customer"] / Ejemplo: "Ayuda al cliente"
+          p.mb-2 #[strong #[em Example] // Ejemplo] 
+          p.mb-0 #[em Example: "Help the customer"] // Ejemplo: "Ayuda al cliente"
 
     .row.justify-content-center
       .col-lg-10.col-xl-8
@@ -192,7 +193,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7
-        p #[em The simple present in third person] // #[em Presente simple en tercera persona]
+        p #[em The simple present in third person] // Presente simple en tercera persona
         p #[em For the third person, an “s” must be added, considering the following observations:]
         p.mb-4.mb-lg-0 Para la tercera persona, se debe adicionar una “s”, teniendo en cuenta las siguientes observaciones:
       .col-sm-10.col-lg-5
@@ -202,7 +203,7 @@
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 3.
-          span Regular verbs/Verbos regulares
+          span #[em Regular verbs] // Verbos regulares
         .tabla-a.color-acento-contenido.tabla-a--text-left.mb-5
           table
             caption Nota. SENA, (2026).
@@ -217,22 +218,22 @@
                 td #[em Regular verbs]
                 td #[em Help]
                 td #[em Helps]
-                td #[em Add -s]
+                td #[em Add #[strong -s]]
               tr
-                td #[em Verbs ending in "ss", "x", "ch", "sh", "o"]
+                td #[em Verbs ending in #[strong "ss"], #[strong "x"], #[strong "ch"], #[strong "sh"], #[strong "o"]]
                 td #[em Wash]
                 td #[em Washes]
-                td #[em Add -es]
+                td #[em Add #[strong -es]]
               tr
-                td #[em Verbs ending in "y" after a consonant]
+                td #[em Verbs ending in #[strong "y"] after a consonant]
                 td #[em Carry]
                 td #[em Carries]
-                td #[em Change y → ies]
+                td #[em Change #[strong "y"] → #[strong "ies"]]
               tr
-                td #[em Verbs ending in "y" after a vowel]
+                td #[em Verbs ending in #[strong "y"] after a vowel]
                 td #[em Pay]
                 td #[em Pays]
-                td #[em Add -s only]
+                td #[em Add #[strong -s] only]
               tr
                 td #[em Irregular verb]
                 td #[em Have]
@@ -241,7 +242,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Tabla 4.
-      span #[em Examples by Subject] / Ejemplos por área
+      span #[em Examples by Subject] // Ejemplos por área
     .tabla-a.color-acento-contenido.tabla-a--text-left.mb-5
       table
         caption Nota. SENA, (2026).
@@ -303,17 +304,17 @@
         .p-4.bg-acento-botones-a5.rounded-4.mb-4.mb-lg-0
           ul.checklist.mb-0
             li.d-flex.ms-3
-              p.mb-0 Take notes of the ideas.
+              p.mb-0 #[em Take notes of the ideas.]
             li.d-flex.ms-3
-              p.mb-0 Select the best ideas and organize them in a logical order.
+              p.mb-0 #[em Select the best ideas and organize them in a logical order.]
             li.d-flex.ms-3
-              p.mb-0 Prepare the photos or images you need.
+              p.mb-0 #[em Prepare the photos or images you need.]
             li.d-flex.ms-3
-              p.mb-0 Check that you have all the needed vocabulary.
+              p.mb-0 #[em Check that you have all the needed vocabulary.]
             li.d-flex.ms-3
-              p.mb-0 Check for grammatical errors.
+              p.mb-0 #[em Check for grammatical errors.]
             li.d-flex.ms-3
-              p.mb-0 Practice makes perfect - Train reading the presentation.
+              p.mb-0 #[em Practice makes perfect - Train reading the presentation.]
       .col-sm-10.col-lg-5
         img(src="@/assets/curso/tema1/10.png" alt="" data-aos="zoom-in-down")
 

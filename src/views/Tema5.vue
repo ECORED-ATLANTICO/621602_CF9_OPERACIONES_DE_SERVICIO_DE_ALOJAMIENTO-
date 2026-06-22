@@ -18,10 +18,10 @@
               p.mb-3.mb-lg-0 #[em In English, we use demonstratives to identify people, objects, or places and to indicate whether they are near or far from the speaker. The demonstratives are this, that, these, and those. They can be used with singular or plural nouns depending on the context.]
             .col-lg-4
               .p-3.py-4.rounded-4.bg-color-primario
-                p.mb-0 #[em This → singular and near]
-                p.mb-0 #[em That → singular and far]
-                p.mb-0 #[em These → plural and near]
-                p.mb-0 #[em Those → plural and far]
+                p.mb-0 #[em #[strong This] → singular and near]
+                p.mb-0 #[em #[strong That] → singular and far]
+                p.mb-0 #[em #[strong These] → plural and near]
+                p.mb-0 #[em #[strong Those] → plural and far]
 
     .p-4.rounded-4.bg-secundario-s5.mb-4
       p.mb-0.text-center #[em Demonstratives are very common in daily communication because they help describe and locate things clearly. Examples:]

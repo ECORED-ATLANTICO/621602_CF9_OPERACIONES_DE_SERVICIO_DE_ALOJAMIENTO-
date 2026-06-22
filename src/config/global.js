@@ -22,10 +22,9 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: '<em>Simple Present</em> / Presente simple',
+        titulo: '<em>Simple Present</em> // Presente simple',
         desarrolloContenidos: true,
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
