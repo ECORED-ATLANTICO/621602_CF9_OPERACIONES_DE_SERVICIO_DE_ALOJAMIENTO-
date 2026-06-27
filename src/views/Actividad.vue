@@ -17,7 +17,7 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: '<em>English at the Front Desk: hotel communication challenge</em>',
+      tema: '<em>english at the Front Desk: hotel communication challenge</em>',
       titulo: 'Cuestionario',
       introduccion:
         '<b> Objetivo:</b> evaluar la apropiación de vocabulario, estructuras gramaticales básicas y expresiones en inglés relacionadas con el servicio de recepción hotelera, el alojamiento, las instalaciones y la comunicación en contextos laborales.',
@@ -67,22 +67,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'He help the customer.',
+              texto: '<em>He help the customer.</em>',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'She carry the luggage.',
+              texto: '<em>She carry the luggage.</em>',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'It have a reservation.',
+              texto: '<em>It have a reservation.</em>',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'He helps the customer.',
+              texto: '<em>He helps the customer.</em>',
               esCorrecta: true,
             },
           ],
@@ -132,22 +132,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Resort.',
+              texto: '<em>Resort.</em>',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Hostel.',
+              texto: '<em>Hostel.</em>',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Luxury hotel.',
+              texto: '<em>Luxury hotel.</em>',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Boutique hotel.',
+              texto: '<emA>Boutique hotel.</emA',
               esCorrecta: false,
             },
           ],
@@ -197,27 +197,27 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Cheap.',
+              texto: '<em>Cheap.</em>',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Peaceful.',
+              texto: '<em>Peaceful.</em>',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Expensive',
+              texto: '<em>Expensive.</em>',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Historic..',
+              texto: '<em>Historic.</em>',
               esCorrecta: false,
             },
           ],
           mensaje_correcto:
-            '¡Correcto! “Expensive” se utiliza para describir un hotel o servicio de alto costo.',
+            '¡Correcto! “<em>Expensive</em>” se utiliza para describir un hotel o servicio de alto costo.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -295,22 +295,23 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'The concert starts at 7:00 pm.',
+              texto: '<em>The concert starts at 7:00 p. m.</em>',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'You walk straight for three blocks, then you turn right.',
+              texto:
+                '<em>You walk straight for three blocks, then you turn right.</em>',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'She works at the hotel.',
+              texto: '<em>She works at the hotel.</em>',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'They have a reservation.',
+              texto: '<em>They have a reservation.</em>',
               esCorrecta: false,
             },
           ],
@@ -427,22 +428,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Wash.',
+              texto: '<em>Wash.</em>',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Carry.',
+              texto: '<em>Carry.</em>',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Have.',
+              texto: '<em>Have.</em>',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Pay.',
+              texto: '<em>Pay.</em>',
               esCorrecta: false,
             },
           ],
@@ -596,7 +597,7 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Apacible / silencioso / relajante',
+              texto: 'Apacible / silencioso / relajante.',
               esCorrecta: true,
             },
             {
@@ -624,22 +625,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'She helps the customer.',
+              texto: '<em>She helps the customer.</em>',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'They are helping the guest.',
+              texto: '<em>They are helping the guest.</em>',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'He does not help the customer.',
+              texto: '<em>He does not help the customer.</em>',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'We helped the visitor.',
+              texto: '<em>We helped the visitor.</em>',
               esCorrecta: false,
             },
           ],

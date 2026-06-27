@@ -22,39 +22,38 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: '<em>Simple Present</em> // Presente simple',
+        titulo: '<em>Simple Present</em> / Presente simple',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: '<em>Lodging</em> // Alojamiento',
+        titulo: '<em>Lodging</em> / Alojamiento',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '2.1',
-            titulo: '<em>Category</em> // Categoría',
+            titulo: '<em>Category</em> / Categoría',
             hash: 't_2_1',
           },
           {
             numero: '2.2',
-            titulo: '<em>Class</em> // Clase',
+            titulo: '<em>Class</em> / Clase',
             hash: 't_2_2',
           },
           {
             numero: '2.3',
-            titulo: '<em>Types</em> // Tipología',
+            titulo: '<em>Types</em> / Tipología',
             hash: 't_2_3',
           },
           {
             numero: '2.4',
-            titulo: '<em>Characteristics</em> // Características',
+            titulo: '<em>Characteristics</em> / Características',
             hash: 't_2_4',
           },
           {
             numero: '2.5',
-            titulo:
-              '<em>Geographical locations</em> // Ubicaciones geográficas',
+            titulo: '<em>Geographical locations</em> / Ubicaciones geográficas',
             hash: 't_2_5',
           },
         ],
@@ -63,25 +62,25 @@ export default {
         nombreRuta: 'tema3',
         numero: '3',
         titulo:
-          '<em>Hotel areas and facilities</em> // Áreas e instalaciones del hotel',
+          '<em>Hotel areas and facilities</em> / Áreas e instalaciones del hotel',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: '<em>Organizational structure</em>',
+        titulo: '<em>Organizational structure</em> / Estructura organizacional',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '4.1',
             titulo:
-              '<em>Positions, duties, responsibilities, profiles</em> // Cargos, deberes, responsabilidades, perfiles',
+              '<em>Positions, duties, responsibilities, profiles</em> / Cargos, deberes, responsabilidades, perfiles',
             hash: 't_4_1',
           },
           {
             numero: '4.2',
             titulo:
-              '<em>Jobs and professions in the tourism sector</em> // Empleos y profesiones en el sector turístico',
+              '<em>Jobs and professions in the tourism sector</em> / Empleos y profesiones en el sector turístico',
             hash: 't_4_2',
           },
         ],
@@ -89,7 +88,7 @@ export default {
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: '<em>Demonstratives</em> // Demostrativos',
+        titulo: '<em>Demonstratives</em> / Demostrativos',
         desarrolloContenidos: true,
       },
     ],
@@ -175,9 +174,9 @@ export default {
     },
     {
       referencia:
-        'Strutt, P. (2003). <em>English for International Tourism</em>. Pearson Education ESL.',
+        'Strutt, P. (2003). <em>english for International Tourism</em>. Pearson Education ESL.',
       link:
-        'https://www.pearson.com/us/higher-education/program/Strutt-English-for-International-Tourism_9780201750801',
+        'https://www.pearson.com/us/higher-education/program/Strutt-english-for-International-Tourism_9780201750801',
     },
     {
       referencia:
@@ -187,7 +186,7 @@ export default {
     },
     {
       referencia:
-        'Woodward Education. (2021). <em>This That These Those - Demonstrative Pronouns Demonstrative Adjectives</em>. Woodward English.https://www.grammar.cl/Notes/This_That_These_Those.htm',
+        'Woodward Education. (2021). <em>This That These Those - Demonstrative Pronouns Demonstrative Adjectives</em>. Woodward english.https://www.grammar.cl/Notes/This_That_These_Those.htm',
       link: 'https://www.grammar.cl/Notes/This_That_These_Those.htm',
     },
   ],
@@ -198,8 +197,8 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
-          centro: 'Centro Agroturistico - Regional Santander',
+            'Profesional 06 - Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+          centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Miguel de Jesús Paredes Maestre ',

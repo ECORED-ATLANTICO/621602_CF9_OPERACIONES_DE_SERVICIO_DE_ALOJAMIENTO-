@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 <em>Hotel areas and facilities</em> // Áreas e instalaciones del hotel
+      h1 <em>Hotel areas and facilities</em> / Áreas e instalaciones del hotel
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
@@ -17,7 +17,7 @@
         p.mb-0 Dentro de la configuración de sus instalaciones, los hoteles cuentan con diferentes áreas, con mobiliario y comodidades acordes con su uso. Observe algunos ejemplos.
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 #[em Private and Public Areas] // Áreas públicas y privadas
+      h5.mb-0 #[em Private and Public Areas] / Áreas públicas y privadas
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7.mb-4.mb-lg-0
@@ -29,7 +29,7 @@
           img(data-aos="fade-down-right", src="@/assets/curso/tema3/2.png", alt="")
     
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 #[em Public Areas] // Áreas públicas
+      h5.mb-0 #[em Public Areas] / Áreas públicas
 
     .mt-5.pt-4
       .fullwidth-bg.fullwidth-bg--1
@@ -50,8 +50,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/4.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Lounge Business Center]
-              p.mb-0.text-center Salón privado
+              p.mb-1.text-center #[em Lounge Business Center.]
+              p.mb-0.text-center Salón privado.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -59,8 +59,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/5.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Swimming Pool]
-              p.mb-0.text-center Piscina
+              p.mb-1.text-center #[em Swimming Pool.]
+              p.mb-0.text-center Piscina.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -68,8 +68,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/6.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Bar]
-              p.mb-0.text-center Bar
+              p.mb-1.text-center #[em Bar.]
+              p.mb-0.text-center Bar.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -77,8 +77,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/7.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Event Venues]
-              p.mb-0.text-center Salones para eventos
+              p.mb-1.text-center #[em Event Venues.]
+              p.mb-0.text-center Salones para eventos.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -86,8 +86,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/8.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Balcony]
-              p.mb-0.text-center Balcón
+              p.mb-1.text-center #[em Balcony.]
+              p.mb-0.text-center Balcón.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -95,8 +95,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/9.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Business Center]
-              p.mb-0.text-center Centro de negocios
+              p.mb-1.text-center #[em Business Center.]
+              p.mb-0.text-center Centro de negocios.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -104,8 +104,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/10.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Elevator]
-              p.mb-0.text-center Ascensor
+              p.mb-1.text-center #[em Elevator.]
+              p.mb-0.text-center Ascensor.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -113,8 +113,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/11.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Rooms Aisle]
-              p.mb-0.text-center Pasillo de habitaciones
+              p.mb-1.text-center #[em Rooms Aisle.]
+              p.mb-0.text-center Pasillo de habitaciones.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -122,8 +122,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/12.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Sauna]
-              p.mb-0.text-center Sauna
+              p.mb-1.text-center #[em Sauna.]
+              p.mb-0.text-center Sauna.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -131,8 +131,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/13.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Gym]
-              p.mb-0.text-center Gimnasio
+              p.mb-1.text-center #[em Gym.]
+              p.mb-0.text-center Gimnasio.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -140,8 +140,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/14.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Spa]
-              p.mb-0.text-center Spa
+              p.mb-1.text-center #[em Spa.]
+              p.mb-0.text-center Spa.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -149,8 +149,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/15.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Turkish Bath]
-              p.mb-0.text-center Baño Turco
+              p.mb-1.text-center #[em Turkish Bath.]
+              p.mb-0.text-center Baño Turco.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -158,8 +158,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/16.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Rooms]
-              p.mb-0.text-center Habitaciones
+              p.mb-1.text-center #[em Rooms.]
+              p.mb-0.text-center Habitaciones.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -167,8 +167,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/17.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Coffe-shop]
-              p.mb-0.text-center Cafetería
+              p.mb-1.text-center #[em Coffe-shop.]
+              p.mb-0.text-center Cafetería.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -176,8 +176,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/18.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Children facilities]
-              p.mb-0.text-center Instalaciones para niños
+              p.mb-1.text-center #[em Children facilities.]
+              p.mb-0.text-center Instalaciones para niños.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -185,8 +185,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/19.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Restaurant]
-              p.mb-0.text-center Restaurante
+              p.mb-1.text-center #[em Restaurant.]
+              p.mb-0.text-center Restaurante.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -194,8 +194,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/20.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Bathrooms]
-              p.mb-0.text-center Baños
+              p.mb-1.text-center #[em Bathrooms.]
+              p.mb-0.text-center Baños.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -203,8 +203,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/21.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Lobby]
-              p.mb-0.text-center Vestíbulo
+              p.mb-1.text-center #[em Lobby.]
+              p.mb-0.text-center Vestíbulo.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -212,8 +212,8 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/22.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Main access]
-              p.mb-0.text-center Acceso principal
+              p.mb-1.text-center #[em Main access.]
+              p.mb-0.text-center Acceso principal.
       .col-sm-6.col-lg-5.col-xl-3.mb-3
         .bg-img.bg-img--2.rounded-4.p-3
           .row.align-items-center
@@ -221,11 +221,11 @@
               figure
                 img.w-65(src="@/assets/curso/tema3/23.svg", alt="")
             .col-8.p-0
-              p.mb-1.text-center #[em Front Desk]
-              p.mb-0.text-center Mostrador
+              p.mb-1.text-center #[em Front Desk.]
+              p.mb-0.text-center Mostrador.
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 #[em Services] // Servicios
+      h5.mb-0 #[em Services.] / Servicios.
 
     .p-4.rounded-4.bg-acento-contenido-a5.mb-4
       p.mb-0 #[em Hotels offer different services to provide comfort, assistance, and a pleasant experience for guests during their stay. These services may vary depending on the type and category of the hotel. Below are some of the most common hotel services.]
@@ -237,124 +237,124 @@
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/24.png' alt='')
-          h5.text-center.mb-0 #[em 24-hour Front Desk]
-          p.text-center.mb-0 Recepción 24 horas
+          h5.text-center.mb-0 #[em 24-hour Front Desk.]
+          p.text-center.mb-0 Recepción 24 horas.
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/25.png' alt='')
-          h5.text-center.mb-0 #[em Bellboy]
-          p.text-center.mb-0 Botones
+          h5.text-center.mb-0 #[em Bellboy.]
+          p.text-center.mb-0 Botones.
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/26.png' alt='')
-          h5.text-center.mb-0 #[em Wheelchair access]
-          p.text-center.mb-0 Acceso en silla de ruedas
+          h5.text-center.mb-0 #[em Wheelchair access.]
+          p.text-center.mb-0 Acceso en silla de ruedas.
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/27.png' alt='')
-          h5.text-center.mb-0 #[em Credit cards accepted]
-          p.text-center.mb-0 Tarjetas de crédito aceptadas
+          h5.text-center.mb-0 #[em Credit cards accepted.]
+          p.text-center.mb-0 Tarjetas de crédito aceptadas.
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/28.png' alt='')
-          h5.text-center.mb-0 #[em Pet friendly]
-          p.text-center.mb-0 Aceptan mascotas
+          h5.text-center.mb-0 #[em Pet friendly.]
+          p.text-center.mb-0 Aceptan mascotas.
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/29.png' alt='')
-          h5.text-center.mb-0 #[em 24-hour Room service]
-          p.text-center.mb-0 Servicio a la habitación 24 horas
+          h5.text-center.mb-0 #[em 24-hour Room service.]
+          p.text-center.mb-0 Servicio a la habitación 24 horas.
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/30.png' alt='')
-          h5.text-center.mb-0 #[em Shuttle service]
-          p.text-center.mb-0 Servicio de transporte
+          h5.text-center.mb-0 #[em Shuttle service.]
+          p.text-center.mb-0 Servicio de transporte.
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/31.png' alt='')
-          h5.text-center.mb-0 #[em Online reservation]
-          p.text-center.mb-0 Reserva en línea
+          h5.text-center.mb-0 #[em Online reservation.]
+          p.text-center.mb-0 Reserva en línea.
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/32.png' alt='')
-          h5.text-center.mb-0 #[em Concierge service]
-          p.text-center.mb-0 Servicio de conserjería
+          h5.text-center.mb-0 #[em Concierge service.]
+          p.text-center.mb-0 Servicio de conserjería.
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/33.png' alt='')
-          h5.text-center.mb-0 #[em Security]
-          p.text-center.mb-0 Seguridad
+          h5.text-center.mb-0 #[em Security.]
+          p.text-center.mb-0 Seguridad.
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/34.png' alt='')
-          h5.text-center.mb-0 #[em Satellite TV]
-          p.text-center.mb-0 Televisión satelital
+          h5.text-center.mb-0 #[em Satellite TV.]
+          p.text-center.mb-0 Televisión satelital.
       .tarjeta.bg-img.bg-img--3.p-4.py-lg-5
         .row.justify-content-center.mb-3
           .col-6
             img.mb-4(src='@/assets/curso/tema3/35.png' alt='')
-          h5.text-center.mb-0 #[em Wi-Fi free access]
-          p.text-center.mb-0 Acceso a Wi-Fi gratuito
+          h5.text-center.mb-0 #[em Wi-Fi free access.]
+          p.text-center.mb-0 Acceso a Wi-Fi gratuito.
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 #[em Furniture] // Muebles
+      h5.mb-0 #[em Furniture] / Muebles
 
     .p-4.rounded-4.bg-acento-contenido-a5.mb-3
       p.mb-0 #[em Furniture includes the objects and equipment used to provide comfort, functionality, and decoration in the different areas of a hotel. Each space is furnished according to its purpose and the needs of guests and staff. Below are some common examples of hotel furniture.]
     p.mb-4.mb-lg-5 El mobiliario incluye los objetos y equipos utilizados para brindar comodidad, funcionalidad y decoración en las diferentes áreas de un hotel. Cada espacio cuenta con muebles acordes con su propósito y las necesidades de huéspedes y personal. A continuación, se presentan algunos ejemplos comunes de mobiliario hotelero.
 
-    img.mb-2.d-sm-none(data-aos="fade-down-right", src="@/assets/curso/tema3/36-mob.png", alt="")
+    img.mb-2.d-sm-none(data-aos="fade-down-right", src="@/assets/curso/tema3/36-mob.svg", alt="")
     ImagenInfografica.color-acento-botones.d-none.d-sm-block
       template(v-slot:imagen)
         figure
           img(src='@/assets/curso/tema3/36.png', alt='')
 
       .tarjeta.bg-secundario-s10.p-3(x="48%" y="16%" numero="01")
-        p.text-center.mb-0 #[em Ceiling Lamps]
-        p.text-center.mb-0 Lámparas de techo
+        p.text-center.mb-0 #[em Ceiling Lamps.]
+        p.text-center.mb-0 Lámparas de techo.
       .tarjeta.bg-secundario-s10.p-3(x="32%" y="33%" numero="02")
-        p.text-center.mb-0 #[em Curtains]
-        p.text-center.mb-0 Cortinas
+        p.text-center.mb-0 #[em Curtains.]
+        p.text-center.mb-0 Cortinas.
       .tarjeta.bg-secundario-s10.p-3(x="25%" y="70%" numero="03")
-        p.text-center.mb-0 #[em Desk chair]
-        p.text-center.mb-0 Silla de escritorio
+        p.text-center.mb-0 #[em Desk chair.]
+        p.text-center.mb-0 Silla de escritorio.
       .tarjeta.bg-secundario-s10.p-3(x="85%" y="45%" numero="04")
-        p.text-center.mb-0 #[em Mirror]
-        p.text-center.mb-0 Espejo
+        p.text-center.mb-0 #[em Mirror.]
+        p.text-center.mb-0 Espejo.
       .tarjeta.bg-secundario-s10.p-3(x="65%" y="55%" numero="05")
-        p.text-center.mb-0 #[em Headboard]
-        p.text-center.mb-0 Cabecera
+        p.text-center.mb-0 #[em Headboard.]
+        p.text-center.mb-0 Cabecera.
       .tarjeta.bg-secundario-s10.p-3(x="48%" y="42%" numero="06")
-        p.text-center.mb-0 #[em Art]
-        p.text-center.mb-0 Arte
+        p.text-center.mb-0 #[em Art.]
+        p.text-center.mb-0 Arte.
       .tarjeta.bg-secundario-s10.p-3(x="40%" y="50%" numero="07")
-        p.text-center.mb-0 #[em Lamps]
-        p.text-center.mb-0 Lámparas
+        p.text-center.mb-0 #[em Lamps.]
+        p.text-center.mb-0 Lámparas.
       .tarjeta.bg-secundario-s10.p-3(x="55%" y="62%" numero="08")
-        p.text-center.mb-0 #[em Pillows]
-        p.text-center.mb-0 Almohadas
+        p.text-center.mb-0 #[em Pillows.]
+        p.text-center.mb-0 Almohadas.
       .tarjeta.bg-secundario-s10.p-3(x="65%" y="70%" numero="09")
-        p.text-center.mb-0 #[em Bed linen]
-        p.text-center.mb-0 Ropa de cama
+        p.text-center.mb-0 #[em Bed linen.]
+        p.text-center.mb-0 Ropa de cama.
       .tarjeta.bg-secundario-s10.p-3(x="72%" y="72%" numero="10")
-        p.text-center.mb-0 #[em Mattress]
-        p.text-center.mb-0 Colchón
+        p.text-center.mb-0 #[em Mattress.]
+        p.text-center.mb-0 Colchón.
       .tarjeta.bg-secundario-s10.p-3(x="28%" y="55%" numero="11")
-        p.text-center.mb-0 #[em Decoration]
-        p.text-center.mb-0 Decoración  
+        p.text-center.mb-0 #[em Decoration.]
+        p.text-center.mb-0 Decoración.  
       .tarjeta.bg-secundario-s10.p-3(x="50%" y="75%" numero="12")
-        p.text-center.mb-0 #[em Bed]
-        p.text-center.mb-0 Cama
+        p.text-center.mb-0 #[em Bed.]
+        p.text-center.mb-0 Cama.
 
 
 

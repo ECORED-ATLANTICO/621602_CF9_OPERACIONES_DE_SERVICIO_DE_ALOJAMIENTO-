@@ -5,25 +5,25 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 1
-      h1 <em>Simple Present</em> // Presente simple
+      h1 <em>Simple Present</em> / Presente simple
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema1/1.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
-        p #[em It should be noticed that the most frequent sentences are in the present simple since this is an English verbal tense used to express habits, routines, and events. You will learn it's use in sentences and conjugations.]
+        p #[em It should be noticed that the most frequent sentences are in the present simple since this is an english verbal tense used to express habits, routines, and events. You will learn it's use in sentences and conjugations.]
         .p-4.bg-secundario-s5.rounded-4.mb-3
           p.mb-0 Cabe señalar que las oraciones más frecuentes están en presente simple, ya que es un tiempo verbal en inglés que se usa para expresar hábitos, rutinas y eventos. Aprenderá su uso en oraciones y conjugaciones.
-        p.mb-0 #[strong #[em Simple Present] // Presente simple.]
-        p #[em The simple present is an English verbal tense used to express habits, routines, and events. You will learn it's use in sentences and conjugations.]
+        p.mb-0 #[strong #[em Simple Present] / Presente simple]
+        p #[em The simple present is an english verbal tense used to express habits, routines, and events. You will learn it's use in sentences and conjugations.]
         p.mb-0 El presente simple es un tiempo verbal del inglés que se usa para expresar hábitos, rutinas y eventos. Aprenderá su uso en oraciones y conjugaciones.
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
       .col-lg-6.mb-3
         .p-4.bg-acento-botones-a5.rounded-4.position-relative.h-100
           img.w-85.position-absolute.top-0.end-10.d-none.d-xl-block(src="@/assets/curso/tema1/2.svg")
-          p.mb-0 #[strong #[em Grammar] // Gramática]
+          p.mb-0 #[strong #[em Grammar] / Gramática]
           p.mb-0 #[em See the main conditions of use of this verb tense.]
           p.mb-0 Observa las principales condiciones de uso de este tiempo verbal. 
       .col-lg-4.mb-3
@@ -32,6 +32,7 @@
           p.mb-0 #[strong #[em Affirmative statements]]
           p.mb-0 Oraciones afirmativas
           p.mb-0 #[em The structure is:]
+          p.mb-0 #[em La estructura es:]
       .col-8.col-sm-4.col-lg-2
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema1/4.png", alt="" data-aos="zoom-in-down")
@@ -42,16 +43,16 @@
           h5 Figura 1.
           span #[em Affirmative statements]
       .col-12
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/5-mob.svg", alt="Cuadro de diálogo, estructura “sujeto + verbo + complemento” en inglés y español. En la parte superior aparece el título bilingüe “Subject + verb + complement / Sujeto + verbo + complemento”. Debajo, dos personajes ilustrados conversan mediante globos de diálogo. Una persona pregunta qué es esta estructura gramatical y otra responde que es una forma de organizar oraciones donde el sujeto realiza la acción, el verbo la expresa y el complemento aporta información adicional. Luego se pregunta por su importancia y se explica que permite construir mensajes claros y coherentes en ambos idiomas. ")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/5.svg", alt="Cuadro de diálogo, estructura “sujeto + verbo + complemento” en inglés y español. En la parte superior aparece el título bilingüe “Subject + verb + complement / Sujeto + verbo + complemento”. Debajo, dos personajes ilustrados conversan mediante globos de diálogo. Una persona pregunta qué es esta estructura gramatical y otra responde que es una forma de organizar oraciones donde el sujeto realiza la acción, el verbo la expresa y el complemento aporta información adicional. Luego se pregunta por su importancia y se explica que permite construir mensajes claros y coherentes en ambos idiomas. ")
+        img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/5-mob.svg", alt="Cuadro de diálogo, estructura “Sujeto + Verbo + Complemento” en inglés y español. En la parte superior aparece el título bilingüe “Subject + Verb + Complement / Sujeto + Verbo + Vomplemento”. Debajo, dos personajes ilustrados conversan mediante globos de diálogo. Una persona pregunta qué es esta estructura gramatical y otra responde que es una forma de organizar oraciones donde el sujeto realiza la acción, el verbo la expresa y el complemento aporta información adicional. Luego se pregunta por su importancia y se explica que permite construir mensajes claros y coherentes en ambos idiomas. ")
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/5.svg", alt="Cuadro de diálogo, estructura “Sujeto + Verbo + Complemento” en inglés y español. En la parte superior aparece el título bilingüe “Subject + Verb + Complement / Sujeto + Verbo + Complemento”. Debajo, dos personajes ilustrados conversan mediante globos de diálogo. Una persona pregunta qué es esta estructura gramatical y otra responde que es una forma de organizar oraciones donde el sujeto realiza la acción, el verbo la expresa y el complemento aporta información adicional. Luego se pregunta por su importancia y se explica que permite construir mensajes claros y coherentes en ambos idiomas. ")
         figcaption  Nota. SENA, (2026).
   
     .row.justify-content-center.mb-5
       .col-lg-10.col-xl-8
         .p-3.bg-acento-botones-a5.rounded-4.position-relative.h-100
           img.w-90.position-absolute.end-10.d-none.d-xl-block(src="@/assets/curso/tema1/3.svg")
-          p.mb-2 #[strong #[em Example] // Ejemplo] 
-          p.mb-0 #[em Example: "Help the customer"] // Ejemplo: "Ayuda al cliente"
+          p.mb-2 #[strong #[em Example] / Ejemplo] 
+          p.mb-0 #[em Example: "Help the customer."] / Ejemplo: "Ayuda al cliente."
 
     .row.justify-content-center
       .col-lg-10.col-xl-8
@@ -115,8 +116,8 @@
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
           span #[em Nagative statements]
-        img.mb-2.d-sm-none(data-aos="fade-up", src="@/assets/curso/tema1/6-mob.svg", alt="Cuadro de diálogo, que muestra dos interlocutores teniendo una conversación con estructura de Negative statements")
-        img.mb-2.d-none.d-sm-block(data-aos="fade-up", src="@/assets/curso/tema1/6.svg", alt="Cuadro de diálogo, que muestra dos interlocutores teniendo una conversación con estructura de Negative statements")
+        img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/6-mob.svg", alt="Cuadro de diálogo, que muestra dos interlocutores teniendo una conversación con estructura de Negative statements")
+        img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/6.svg", alt="Cuadro de diálogo, que muestra dos interlocutores teniendo una conversación con estructura de Negative statements")
         figcaption  Nota. SENA, (2026).
 
     .titulo-sexto.color-acento-contenido.mb-4
@@ -193,7 +194,7 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7
-        p #[em The simple present in third person] // Presente simple en tercera persona
+        b #[em The simple present in third person] / Presente simple en tercera persona
         p #[em For the third person, an “s” must be added, considering the following observations:]
         p.mb-4.mb-lg-0 Para la tercera persona, se debe adicionar una “s”, teniendo en cuenta las siguientes observaciones:
       .col-sm-10.col-lg-5
@@ -203,7 +204,7 @@
       .col-xl-10
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Tabla 3.
-          span #[em Regular verbs] // Verbos regulares
+          span #[em Regular verbs] / Verbos regulares
         .tabla-a.color-acento-contenido.tabla-a--text-left.mb-5
           table
             caption Nota. SENA, (2026).
@@ -218,12 +219,12 @@
                 td #[em Regular verbs]
                 td #[em Help]
                 td #[em Helps]
-                td #[em Add #[strong -s]]
+                td #[em Add #[strong "-s"]]
               tr
                 td #[em Verbs ending in #[strong "ss"], #[strong "x"], #[strong "ch"], #[strong "sh"], #[strong "o"]]
                 td #[em Wash]
                 td #[em Washes]
-                td #[em Add #[strong -es]]
+                td #[em Add #[strong "-es"]]
               tr
                 td #[em Verbs ending in #[strong "y"] after a consonant]
                 td #[em Carry]
@@ -233,7 +234,7 @@
                 td #[em Verbs ending in #[strong "y"] after a vowel]
                 td #[em Pay]
                 td #[em Pays]
-                td #[em Add #[strong -s] only]
+                td #[em Add #[strong "-s"] only]
               tr
                 td #[em Irregular verb]
                 td #[em Have]
@@ -242,7 +243,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-4
       h5 Tabla 4.
-      span #[em Examples by Subject] // Ejemplos por área
+      span #[em Examples by Subject] / Ejemplos por área
     .tabla-a.color-acento-contenido.tabla-a--text-left.mb-5
       table
         caption Nota. SENA, (2026).
@@ -292,10 +293,10 @@
             td #[em Have]
 
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 #[em Tips] // Consejos
+      h5.mb-0 #[em Tips] / Consejos
 
     .p-4.bg-secundario-s5.rounded-4.mb-4
-      p.mb-0.text-center #[em To make a good presentation, you need to start by “building” it well. Before starting, it is necessary to select the topic you are going to deal with. When you are preparing it, remember:]
+      p.mb-0.text-start #[em To make a good presentation, you need to start by “building” it well. Before starting, it is necessary to select the topic you are going to deal with. When you are preparing it, remember:]
 
     .row.justify-content-center.align-items-center.mb-4
       .col-sm-4.col-lg-2.d-none.d-xl-block
@@ -319,7 +320,7 @@
         img(src="@/assets/curso/tema1/10.png" alt="" data-aos="zoom-in-down")
 
     .p-4.bg-acento-contenido-a5.rounded-4.mb-4
-      p.mb-0.text-center Para hacer una buena presentación, es necesario empezar por «construirla» bien. Antes de empezar, es necesario seleccionar el tema que va a tratar. Cuando la esté preparando recuerde: 
+      p.mb-0.text-start Para hacer una buena presentación, es necesario empezar por «construirla» bien. Antes de empezar, es necesario seleccionar el tema que va a tratar. Cuando la esté preparando recuerde: 
 
     .row.justify-content-center.align-items-center.mb-4
       .col-sm-10.col-lg-5
@@ -343,7 +344,7 @@
         img.h-100(src="@/assets/curso/tema1/12.png" alt="" data-aos="zoom-in-down")
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 #[em Giving information] // Brindando información
+      h5.mb-0 #[em Giving information] / Brindando información
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4

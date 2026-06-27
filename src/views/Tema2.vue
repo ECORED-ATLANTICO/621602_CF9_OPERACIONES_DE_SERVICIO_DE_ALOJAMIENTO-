@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 #[em Lodging] // Alojamiento
+      h1 #[em Lodging] / Alojamiento
 
     .mt-5.pt-4
       .fullwidth-bg.fullwidth-bg--1
@@ -22,7 +22,7 @@
     
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.1 #[em Category] // Categoría
+      h2 2.1 #[em Category] / Categoría
     
     .row.justify-content-center.align-items-center.mb-3
       .col-sm-8.col-lg-4
@@ -35,42 +35,42 @@
         p.mb-0 #[em Evaluation criteria to granting the star rating certificate for hotels in modalities 1, 2, 3, 4, and 5. They are established as follows:]
 
     .p-4.rounded-4.bg-secundario-s5.mb-5
-      p.mb-0.text-center Criterios de evaluación para el otorgamiento del certificado de categorización por estrellas para los hoteles en las modalidades 1, 2, 3, 4 y 5. Están establecidas de la siguiente manera: 
+      p.mb-0.text-start Criterios de evaluación para el otorgamiento del certificado de categorización por estrellas para los hoteles en las modalidades 1, 2, 3, 4 y 5. Están establecidas de la siguiente manera: 
 
     SlyderF(columnas="col-lg-6 col-xl-4").mb-4.mb-lg-5
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/3.svg' alt='')
-        p.mb-4.text-center #[strong #[em Star hotels]] // Hoteles de 1 estrella
-        p.text-center.mb-4 #[em Must meet 100 % of the requirements defined in Standard NTSH006, 178 points and current legal requirements.]
-        p.text-center.mb-0 Deberán cumplir el 100 % de los requisitos definidos en la Norma NTSH006, 178 puntos y los requisitos legales vigentes.
+        p.mb-4.text-center #[strong #[em Star hotels]] / Hoteles de 1 estrella
+        p.text-start.mb-4 #[em Must meet 100 % of the requirements defined in Standard NTSH006, 178 points and current legal requirements.]
+        p.text-start.mb-0 Deberán cumplir el 100 % de los requisitos definidos en la Norma NTSH006, 178 puntos y los requisitos legales vigentes.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/4.svg' alt='')
-        p.mb-4.text-center #[strong #[em Star hotels]] // Hoteles de 2 estrellas
-        p.text-center.mb-4 #[em They must meet 100 % of the requirements defined in Standard NTSH006, 181 points and current legal requirements.]
-        p.text-center.mb-0 Deberán cumplir el 100 % de los requisitos definidos en la Norma NTSH006, 181 puntos y los requisitos legales vigentes.
+        p.mb-4.text-center #[strong #[em Star hotels]] / Hoteles de 2 estrellas
+        p.text-start.mb-4 #[em They must meet 100 % of the requirements defined in Standard NTSH006, 181 points and current legal requirements.]
+        p.text-start.mb-0 Deberán cumplir el 100 % de los requisitos definidos en la Norma NTSH006, 181 puntos y los requisitos legales vigentes.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/5.svg' alt='')
-        p.mb-4.text-center #[strong #[em Star hotels]] // Hoteles de 3 estrellas
-        p.text-center.mb-4 #[em They must meet 80 % of the requirements defined in Standard NTSH006, range 208 - 260 points and current legal requirements.]
-        p.text-center.mb-0 Deberán cumplir el 80 % de los requisitos definidos en la Norma NTSH006, rango 208 - 260 puntos y los requisitos legales vigentes.
+        p.mb-4.text-center #[strong #[em Star hotels]] / Hoteles de 3 estrellas
+        p.text-start.mb-4 #[em They must meet 80 % of the requirements defined in Standard NTSH006, range 208 - 260 points and current legal requirements.]
+        p.text-start.mb-0 Deberán cumplir el 80 % de los requisitos definidos en la Norma NTSH006, rango 208 - 260 puntos y los requisitos legales vigentes.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/6.svg' alt='')
-        p.mb-4.text-center #[strong #[em Star hotels]] // Hoteles de 4 estrellas
+        p.mb-4.text-center #[strong #[em Star hotels]] / Hoteles de 4 estrellas
         p.text-center.mb-4 #[em They must meet a minimum of 85 % of the requirements defined in Standard NTSH006, range 283 - 333 points and current legal requirements.]
         p.text-center.mb-0 Deberán cumplir mínimo con el 85 % de los requisitos definidos en la Norma NTSH006, rango 283 - 333 puntos y los requisitos legales vigentes.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/7.svg' alt='')
-        p.mb-4.text-center #[strong #[em Star hotels]] // Hoteles de 5 estrellas
+        p.mb-4.text-center #[strong #[em Star hotels]] / Hoteles de 5 estrellas
         p.text-center.mb-4 #[em They must meet a minimum of 95 % of the requirements defined in Standard NTSH006, range 349 - 337 points and the current legal requirements.]
         p.text-center.mb-0 Deberán cumplir mínimo con el 95 % de los requisitos definidos en la norma NTSH006, rango 349 - 337 puntos y los requisitos legales vigentes.
 
@@ -97,25 +97,25 @@
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Luxury Chains]
+                  | #[em Luxury Chains.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Upper Upscale Chains]
+                  | #[em Upper Upscale Chains.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Upscale Chains]
+                  | #[em Upscale Chains.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Upper Midscale Chains]
+                  | #[em Upper Midscale Chains.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Midscale Chains]
+                  | #[em Midscale Chains.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Economy Chains]
+                  | #[em Economy Chains.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Independent Hotels]
+                  | #[em Independent Hotels.]
       .col-lg-6.mb-4.mb-lg-0
         .rounded-4.h-100.overflow-hidden.bg-img.bg-img--7.p-4
           .row.justify-content-center.align-items-center
@@ -127,25 +127,25 @@
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas de nivel Lujo
+                  | Cadenas de nivel Lujo.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Superior exclusivo
+                  | Cadenas nivel Superior exclusivo.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Exclusivo
+                  | Cadenas nivel Exclusivo.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Superior medio
+                  | Cadenas nivel Superior medio.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Medio
+                  | Cadenas nivel Medio.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas nivel Económico
+                  | Cadenas nivel Económico.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles Independientes
+                  | Hoteles Independientes.
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
@@ -156,10 +156,10 @@
         p.mb-0 Cuando una cadena se clasifica en un nivel específico de la escala, eso significa que cada hotel en esa cadena está en ese nivel de la escala, en todas partes del mundo, en cada país y mercado. Por ejemplo, la cadena Ritz-Carlton está en el nivel Lujo. Eso significa que cada hotel Ritz-Carlton en el mundo será un hotel de escala de lujo.
 
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 #[em Categorization by price scale (Brands)] // Categorización por escala de precio (Marcas)
+      h5.mb-0 #[em Categorization by price scale (Brands)] / Categorización por escala de precio (Marcas)
 
     .p-3.rounded-4.bg-secundario-s5.mb-2
-      p.mb-0.text-center #[strong #[em Luxury Hotels]] // Cadenas de nivel lujo
+      p.mb-0.text-center #[strong #[em Luxury Hotels]] / Cadenas de nivel lujo
 
     .row.justify-content-center.align-items-center.mb-4
       .col-sm-6.col-lg-5.col-xl-3
@@ -176,7 +176,7 @@
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/14.png", alt="")
 
     .p-3.rounded-4.bg-secundario-s5.mb-2
-      p.mb-0.text-center #[strong #[em Upper Upscale Hotels]] // Nivel Superior exclusivo
+      p.mb-0.text-center #[strong #[em Upper Upscale Hotels]] / Nivel superior exclusivo
 
     .row.justify-content-center.align-items-center.mb-4
       .col-sm-6.col-lg-5.col-xl-3
@@ -193,7 +193,7 @@
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/18.png", alt="")
           
     .p-3.rounded-4.bg-secundario-s5.mb-2
-      p.mb-0.text-center #[strong #[em Upscale Hotels]] // Cadenas de nivel Exclusivo
+      p.mb-0.text-center #[strong #[em Upscale Hotels]] / Cadenas de nivel exclusivo
 
     .row.justify-content-center.align-items-center.mb-4
       .col-sm-6.col-lg-5.col-xl-3
@@ -210,7 +210,7 @@
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/22.png", alt="")
           
     .p-3.rounded-4.bg-secundario-s5.mb-2
-      p.mb-0.text-center #[strong #[em Upper Midscale Hotels]] // Cadenas nivel Superior medio
+      p.mb-0.text-center #[strong #[em Upper Midscale Hotels]] / Cadenas nivel superior medio
 
     .row.justify-content-center.align-items-center.mb-4
       .col-sm-6.col-lg-5.col-xl-3
@@ -227,7 +227,7 @@
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/50.png", alt="")
           
     .p-3.rounded-4.bg-secundario-s5.mb-2
-      p.mb-0.text-center #[strong #[em Midscale Hotels]] // Cadenas nivel Medio
+      p.mb-0.text-center #[strong #[em Midscale Hotels]] / Cadenas nivel medio
 
     .row.justify-content-center.align-items-center.mb-4
       .col-sm-6.col-lg-5.col-xl-3
@@ -256,7 +256,7 @@
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/30.png", alt="")
 
     .p-3.rounded-4.bg-secundario-s5.mb-2
-      p.mb-0.text-center #[strong #[em Ecconomy Hotels]]  // Cadenas nivel Económico
+      p.mb-0.text-center #[strong #[em Ecconomy Hotels]]  / Cadenas nivel económico
 
     .row.justify-content-center.align-items-center
       .col-sm-6.col-lg-5.col-xl-3
@@ -275,19 +275,20 @@
     separador
     
     #t_2_2.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.2 #[em Class] // Clase
+      h2 2.2 #[em Class] / Clase
     
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
         figure
           img.mb-4.mb-lg-0(src="@/assets/curso/tema2/35.png", alt="" data-aos="zoom-in-down")
       .col-lg-8
-        p #[em The class categorization is like the scale. The names of the categories are the same, but there is no “Independent” class group. So there are only 6 class categories, instead of the 7 scale groups. Independent hotels are slotted into the scale categories (Luxury through Economy) at similar Average Daily Rate levels. Also, there are several adjectives that can be used to talk about the class of hotels and other types of tourist accommodation.]
+        p #[em The class categorization is like the scale. The names of the categories are the same, but there is no “Independent” class group. So there are only 6 class categories, instead of the 7 scale groups.] 
+        p #[em Independent hotels are slotted into the scale categories (Luxury through Economy) at similar Average Daily Rate levels. Also, there are several adjectives that can be used to talk about the class of hotels and other types of tourist accommodation.]
         .p-4.bg-acento-botones-a5.rounded-4
           p.mb-0 La categorización por clases es similar a la de escala. Los nombres de las categorías son los mismos, pero no hay un grupo de clase “independiente”. Así que sólo hay 6 categorías por clase, en lugar de los 7 grupos de escala.
 
     .p-4.bg-secundario-s10.rounded-4.mb-5
-      p.mb-0.text-center Los hoteles independientes están ubicados en las categorías de escala (desde lujo hasta económica) con niveles de tarifa promedio similares.
+      p.mb-0.text-start Los hoteles independientes están ubicados en las categorías de escala (desde lujo hasta económica) con niveles de tarifa promedio similares.
 
     .row.justify-content-center.align-items-stretch.mb-4.mb-lg-5
       .col-lg-6.mb-4.mb-lg-0
@@ -301,22 +302,22 @@
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Luxury Hotels]
+                  | #[em Luxury Hotels.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Upper Upscale Hotels]
+                  | #[em Upper Upscale Hotels.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Upscale Hotels]
+                  | #[em Upscale Hotels.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Upper Midscale Hotels]
+                  | #[em Upper Midscale Hotels.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Midscale Hotels]
+                  | #[em Midscale Hotels.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Economy Hotels]
+                  | #[em Economy Hotels.]
       .col-lg-6.mb-4.mb-lg-0
         .rounded-4.h-100.overflow-hidden.bg-img.bg-img--4.p-4
           .row.justify-content-center.align-items-center
@@ -328,27 +329,27 @@
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles de nivel Lujo
+                  | Hoteles de nivel Lujo.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles de nivel Superior exclusivo
+                  | Hoteles de nivel Superior exclusivo.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles de nivel Exclusivo
+                  | Hoteles de nivel Exclusivo.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles de nivel Superior medio
+                  | Hoteles de nivel Superior medio.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles de nivel Medio
+                  | Hoteles de nivel Medio.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles de nivel Económico
+                  | Hoteles de nivel Económico.
     .row.justify-content-center.mb-4.mb-lg-5
       .col-xl-10
         .bg-acento-contenido-a5.p-4.rounded-4
-          p.mb-4.text-center #[em At the same time, there are several adjectives to express the class and category of a lodging property.]
-          p.mb-0.text-center Al mismo tiempo, existen varios adjetivos para expresar la clase y categoría de una propiedad de alojamiento.
+          p.mb-4.text-start #[em At the same time, there are several adjectives to express the class and category of a lodging property.]
+          p.mb-0.text-start Al mismo tiempo, existen varios adjetivos para expresar la clase y categoría de una propiedad de alojamiento.
 
     .row.justify-content-center.align-items-stretch
       .col-lg-6.mb-4.mb-lg-0
@@ -362,34 +363,34 @@
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Cheap]
+                  | #[em Cheap.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Modern]
+                  | #[em Modern.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Charming]
+                  | #[em Charming.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Bustling]
+                  | #[em Bustling.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Contemporary]
+                  | #[em Contemporary.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Cosmopolitan]
+                  | #[em Cosmopolitan.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Historic]
+                  | #[em Historic.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Exciting]
+                  | #[em Exciting.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Peaceful / quiet / relaxing]
+                  | #[em Peaceful / quiet / relaxing.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Traditional]
+                  | #[em Traditional.]
       .col-lg-6.mb-4.mb-lg-0
         .rounded-4.h-100.overflow-hidden.bg-img.bg-img--7.p-4
           .row.justify-content-center.align-items-center
@@ -401,39 +402,39 @@
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Barato
+                  | Barato.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Moderno
+                  | Moderno.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Con Encanto / Encantador
+                  | Con Encanto / Encantador.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Bullicioso
+                  | Bullicioso.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Contemporáneo
+                  | Contemporáneo.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cosmopolita
+                  | Cosmopolita.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Histórico
+                  | Histórico.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Emocionante
+                  | Emocionante.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Apacible / silencioso / relajante
+                  | Apacible / silencioso / relajante.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Tradicional
+                  | Tradicional.
 
     separador
     
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.3 #[em Types] // Tipología
+      h2 2.3 #[em Types] / Tipología
 
     .mt-5.pt-4
       .fullwidth-bg.fullwidth-bg--1
@@ -445,45 +446,45 @@
             p.mb-0 Existen diferentes tipos de establecimientos de alojamiento. A continuación, conocerá cada uno y sus principales características.
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-terciario-t5").mb-5
-      .row.justify-content-center.align-items-center(titulo="<em>Hotel</em> // Hotel")
+      .row.justify-content-center.align-items-center(titulo="<em>Hotel</em> / Hotel")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em This type of accommodation is featured by providing shared spaces at low cost, where guests can rent a bed, usually a bunk bed in a bedroom, with shared use of the bathroom, kitchen, and social areas.]
           p.mb-0 Este tipo de alojamiento se caracteriza por brindar espacios compartidos a bajo costo y donde los huéspedes pueden alquilar una cama, generalmente una litera en un dormitorio, con uso compartido de baño, cocina y áreas sociales.
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema2/39.png", alt="")
-      .row.justify-content-center.align-items-center(titulo="<em>Aparthotel</em> // Aparta Hotel")
+      .row.justify-content-center.align-items-center(titulo="<em>Aparthotel</em> / Aparta Hotel")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em An aparthotel is a type of housing unit (apartments) with full kitchen and furnishing, but with limited services and staff, which operates with a reservation system in the same way as a hotel. It is focused on long stays.]
           p.mb-0 Un aparta hotel es un tipo de unidad habitacional (apartamentos) con cocina y amoblamiento completo, pero con servicios y personal limitados, que opera con un sistema de reservas similar a un hotel. Está enfocado en largas estadías.
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema2/40.png", alt="")
-      .row.justify-content-center.align-items-center(titulo="<em>Lodge</em> // Cabaña")
+      .row.justify-content-center.align-items-center(titulo="<em>Lodge</em> / Cabaña")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
-          p #[em A lodge is a small house or cottage in the vicinity of a park, in a natural environment. Originally, it is a place of rest, a refuge, for hunters, fishermen, or sportsmen. Now, applied to the hotel industry, it should be a small place, built permanently (with walls), local materials, minimal environmental impact, committed to the local culture, and offering the guest everything they need for their rest while performing one of these practices. Here it is known as Rural Accommodation.]
-          p.mb-0 Un lodge es una pequeña casa o cabaña en las cercanías de un parque, en un entorno natural. Originalmente, es un lugar de descanso, un refugio, para cazadores, pescadores, deportistas. Ahora, aplicado a la hotelería, debe ser un lugar pequeño, construido de manera permanente (con muros), materiales locales, mínimo impacto ambiental, comprometido con la cultura local y que ofrece al huésped todo lo que necesita para su descanso mientras realiza una de estas prácticas. Aquí es conocido como Alojamiento Rural.
+          p #[em A lodge is a small house or cottage in the vicinity of a park, in a natural environment. Originally, it is a place of rest, a refuge, for hunters, fishermen, or sportsmen. Now, applied to the hotel industry, it should be a small place, built permanently (with walls), local materials, minimal environmental impact, committed to the local culture, and offering the guest everything they need for their rest while performing one of these practices. Here it is known as rural accommodation.]
+          p.mb-0 Un lodge es una pequeña casa o cabaña en las cercanías de un parque, en un entorno natural. Originalmente, es un lugar de descanso, un refugio, para cazadores, pescadores, deportistas. Ahora, aplicado a la hotelería, debe ser un lugar pequeño, construido de manera permanente (con muros), materiales locales, mínimo impacto ambiental, comprometido con la cultura local y que ofrece al huésped todo lo que necesita para su descanso mientras realiza una de estas prácticas. Aquí es conocido como alojamiento rural.
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema2/41.png", alt="")
-      .row.justify-content-center.align-items-center(titulo="<em>Hotel</em> // Hotel")
+      .row.justify-content-center.align-items-center(titulo="<em>Hotel</em> / Hotel")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em A hotel is a building planned and equipped to provide lodging services that are generally reserved in advance. Services in addition to lodging include restaurants, swimming pools, stores, spa and day care centers.]
           p.mb-0 Un hotel es un edificio planificado y acondicionado para atender los servicios de alojamiento que generalmente se reservan con antelación. Entre los servicios adicionales al alojamiento, se encuentran restaurantes, piscinas, tiendas, spas y guarderías.
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema2/42.png", alt="")
-      .row.justify-content-center.align-items-center(titulo="<em>Camping</em> // Acampar")
+      .row.justify-content-center.align-items-center(titulo="<em>Camping</em> / Acampar")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em Campsites are outdoor places, with a basic conditioning to cater people who make use of them in exchange for a set amount of money. Usually, these spaces have facilities such as bathrooms, bar, restaurant, or social area.]
           p.mb-0 Los campings son lugares al aire libre, con un acondicionamiento básico para atender a las personas que hacen uso de ellos a cambio de una cantidad fija de dinero. Por lo general, estos espacios tienen instalaciones como baños, bar, restaurante o área social.
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema2/43.png", alt="")
-      .row.justify-content-center.align-items-center(titulo="<em>Glamping</em> // Glamping")
+      .row.justify-content-center.align-items-center(titulo="<em>Glamping / Glamping</em>")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em Glamping is a globally growing trend, that combines the experience of outdoor camping with the luxury and conditions of the best hotels. The term was invented at the end of the prior century as a fusion of the words glamour and camping.]
-          p.mb-0 Es una tendencia creciente a nivel mundial, que combina la experiencia de acampar al aire libre con el lujo y las condiciones de los mejores hoteles. El término fue inventado a finales del siglo anterior como una fusión de las palabras glamour y camping.
+          p.mb-0 Es una tendencia creciente a nivel mundial, que combina la experiencia de acampar al aire libre con el lujo y las condiciones de los mejores hoteles. El término fue inventado a finales del siglo anterior como una fusión de las palabras <em>glamour</em> y <em>camping</em>.
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema2/44.png", alt="")
@@ -500,31 +501,31 @@
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Airport hotels]
+                  | #[em Airport hotels.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Business class or business hotel]
+                  | #[em Business class or business hotel.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Luxury hotels]
+                  | #[em Luxury hotels.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Motels]
+                  | #[em Motels.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Resorts]
+                  | #[em Resorts.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Casino hotels]
+                  | #[em Casino hotels.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Club hotels]
+                  | #[em Club hotels.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Themed hotels]
+                  | #[em Themed hotels.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Historic hotels (Heritage)]
+                  | #[em Historic hotels (Heritage).]
       .col-lg-6.mb-4.mb-lg-0
         .rounded-4.h-100.overflow-hidden.bg-img.bg-img--7.p-4
           .row.justify-content-center.align-items-center
@@ -536,34 +537,34 @@
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles de aeropuerto
+                  | Hoteles de aeropuerto.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hotel de negocios
+                  | Hotel de negocios.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles de lujo
+                  | Hoteles de lujo.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Moteles
+                  | Moteles.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Resorts
+                  | #[em Resorts.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles casinos
+                  | Hoteles casinos.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles clubes
+                  | Hoteles clubes.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles temáticos
+                  | Hoteles temáticos.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Hoteles históricos (Patrimonio)
+                  | Hoteles históricos (Patrimonio).
 
     .p-3.rounded-top-4.bg-secundario-s20.mb-0
-      p.mb-0.text-white #[em Data of interest] // Dato de interés:
+      p.mb-0.text-white #[em Data of interest] / Dato de interés:
     .p-3.bg-acento-contenido-a5.mb-0
       p.mb-0 #[em The word ‘motel’ was invented in the United States to describe the category of cheap and basic hotel that is built near the great national highways of the country. It was aimed at drivers. Motel is the composition of motor + hotel.]
     .p-3.bg-color-primario.mb-0.rounded-bottom-4
@@ -572,7 +573,7 @@
     separador
     
     #t_2_4.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.4 #[em Characteristics] // Características
+      h2 2.4 #[em Characteristics] / Características
 
     .mt-5.pt-4
       .fullwidth-bg.fullwidth-bg--1
@@ -582,42 +583,51 @@
       .col-lg-10.p-4.drop-shadow(data-aos="fade-down")
         div.banner-text.shadow
           p.mb-0.text-center #[em A lodging establishment can offer more than the provision of a room. The client can request complementary services during their stay and the hotel provides them as part of the services.]
-          p.mb-0.text-center #[em The following are considered complementary services:]
 
-    .p-4.rounded-4.bg-acento-contenido-a5.mb-4
-      p.mb-0 Un establecimiento de alojamiento puede ofrecer más que la disposición de una habitación. El cliente puede solicitar servicios complementarios durante su estancia y el hotel los presta como parte de los servicios. Los siguientes se consideran servicios complementarios:
+    .row.justify-content-center.align-items-center.mb-4.mb-lg-5
+      .col-sm-8.col-lg-3
+        figure
+          img.mb-4.mb-lg-0(src="@/assets/curso/tema2/52-1.png", alt="" data-aos="zoom-in-down")
+      .col-lg-9
+        .p-4.bg-secundario-s5.rounded-4.mb-3
+          p.mb-3 Un establecimiento de alojamiento puede ofrecer más que la disposición de una habitación. El cliente puede solicitar servicios complementarios durante su estancia y el hotel los presta como parte de los servicios. Los siguientes se consideran servicios complementarios:
+          b.mb-0.text-start #[em The following are considered complementary services:]
+          p.mb-3.text-start #[ Los siguientes se consideran servicios complementarios:]
+          b.mb-0.text-start #[em Characteristics of establishment:]
+          p.mb-3.text-start #[ Características de establecimientos de alojamiento:]
+
 
     SlyderF(columnas="col-md-6 col-xl-4").mb-4.mb-lg-5
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/53.svg' alt='')
-        p.mb-0.text-center #[strong #[em Restaurant and room service]]
-        p.mb-0.text-center Restaurante y servicio a la habitación
+        p.mb-0.text-center #[strong #[em Restaurant and room service.]]
+        p.mb-0.text-center Restaurante y servicio a la habitación.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/54.svg' alt='')
-        p.mb-0.text-center #[strong #[em Venue rooms]]
-        p.mb-0.text-center Salones de eventos
+        p.mb-0.text-center #[strong #[em Venue rooms.]]
+        p.mb-0.text-center Salones de eventos.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/55.svg' alt='')
-        p.mb-0.text-center #[strong #[em Commercial spaces]]
-        p.mb-0.text-center Locales comerciales
+        p.mb-0.text-center #[strong #[em Commercial spaces.]]
+        p.mb-0.text-center Locales comerciales.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/56.svg' alt='')
-        p.mb-0.text-center #[strong #[em 24-hour front desk]]
-        p.mb-0.text-center Recepción y atención permanente
+        p.mb-0.text-center #[strong #[em 24-hour front desk.]]
+        p.mb-0.text-center Recepción y atención permanente.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/57.svg' alt='')
-        p.mb-0.text-center #[strong #[em Safe box]]
-        p.mb-0.text-center Cajilla de seguridad
+        p.mb-0.text-center #[strong #[em Safe box.]]
+        p.mb-0.text-center Cajilla de seguridad.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
@@ -628,50 +638,47 @@
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/59.svg' alt='')
-        p.mb-0.text-center #[strong #[em Periodic change of bedding]]
-        p.mb-0.text-center Cambio periódico de ropa de cama
+        p.mb-0.text-center #[strong #[em Periodic change of bedding.]]
+        p.mb-0.text-center Cambio periódico de ropa de cama.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/60.svg' alt='')
-        p.mb-0.text-center #[strong #[em Periodic change of towels]]
-        p.mb-0.text-center Cambio periódico de toallas
+        p.mb-0.text-center #[strong #[em Periodic change of towels.]]
+        p.mb-0.text-center Cambio periódico de toallas.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/61.svg' alt='')
-        p.mb-0.text-center #[strong #[em Additional services]]
-        p.mb-0.text-center Prestación de servicios adicionales
+        p.mb-0.text-center #[strong #[em Additional services.]]
+        p.mb-0.text-center Prestación de servicios adicionales.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/62.svg' alt='')
-        p.mb-0.text-center #[strong #[em Laundry]]
-        p.mb-0.text-center Lavandería
+        p.mb-0.text-center #[strong #[em Laundry.]]
+        p.mb-0.text-center Lavandería.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/63.svg' alt='')
-        p.mb-0.text-center #[strong #[em Pressing]]
-        p.mb-0.text-center Planchado
+        p.mb-0.text-center #[strong #[em Pressing.]]
+        p.mb-0.text-center Planchado.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/64.svg' alt='')
-        p.mb-0.text-center #[strong #[em Luggage custody]]
-        p.mb-0.text-center Custodia de maletas
+        p.mb-0.text-center #[strong #[em Luggage custody.]]
+        p.mb-0.text-center Custodia de maletas.
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/tema2/65.svg' alt='')
-        p.mb-0.text-center #[strong #[em Newspaper]]
-        p.mb-0.text-center Periódico
-      .tarjeta.bg-img.bg-img--3.p-4.py-5
-        .row.justify-content-center.mb-3
-          .col-4
-            img(src='@/assets/curso/tema2/66.svg' alt='')
-        p.mb-0.text-center #[strong #[em Package holiday:]]
-        p.mb-0.text-center Paquete turístico
+        p.mb-0.text-center #[strong #[em Newspaper.]]
+        p.mb-0.text-center Periódico.
+    
+    .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
+      h5.mb-0 #[em Package holiday:] / Paquete turístico:
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-10.col-lg-5
@@ -684,70 +691,70 @@
               .p-3.rounded-4.bg-secundario-s10.mb-3
                 .row.justify-content-center.align-items-center
                   .col-6
-                    p.mb-0 #[em Cruise]
-                    p.mb-0 #[em Winter sports]
-                    p.mb-0 #[em Mini-break]
-                    p.mb-0 #[em Honeymoon]
-                    p.mb-0 #[em Adventure]
+                    p.mb-0 #[em Cruise.]
+                    p.mb-0 #[em Winter sports.]
+                    p.mb-0 #[em Mini-break.]
+                    p.mb-0 #[em Honeymoon.]
+                    p.mb-0 #[em Adventure.]
                   .col-6
-                    p.mb-0 Crucero
-                    p.mb-0 Deportes de invierno
-                    p.mb-0 Mini-vacaciones
-                    p.mb-0 Luna de miel
-                    p.mb-0 Aventura
-          .row(numero="2" titulo="<em>Ancillary services</em> / Servicios complementarios")
+                    p.mb-0 Crucero.
+                    p.mb-0 Deportes de invierno.
+                    p.mb-0 Mini-vacaciones.
+                    p.mb-0 Luna de miel.
+                    p.mb-0 Aventura.
+          .row.justify-content-center(numero="2" titulo="<em>Ancillary services</em> / Servicios complementarios")
             .col-xl-8
               .p-3.rounded-4.bg-secundario-s10.mb-3
-                .row.justify-content-center
+                .row.justify-content-center.align-items-center
                   .col-6
-                    p.mb-0 #[em Visa]
-                    p.mb-0 #[em All-inclusive]
-                    p.mb-0 #[em Insurance]
-                    p.mb-0 #[em Foreign exchange]
-                    p.mb-0 #[em Transfer]
-                    p.mb-0 #[em Equipment hire]
+                    p.mb-0 #[em Visa.]
+                    p.mb-0 #[em All-inclusive.]
+                    p.mb-0 #[em Insurance.]
+                    p.mb-0 #[em Foreign exchange.]
+                    p.mb-0 #[em Transfer.]
+                    p.mb-0 #[em Equipment hire.]
                   .col-6
-                    p.mb-0 Visa
-                    p.mb-0 Todo incluido
-                    p.mb-0 Seguro
-                    p.mb-0 Cambio de moneda
-                    p.mb-0 Transferir
-                    p.mb-0 Alquiler de equipos
-          .row(numero="3" titulo="<em>Accommodation</em> / Alojamiento")
+                    p.mb-0 Visa.
+                    p.mb-0 Todo incluido.
+                    p.mb-0 Seguro.
+                    p.mb-0 Cambio de moneda.
+                    p.mb-0 Transferir.
+                    p.mb-0 Alquiler de equipos.
+          .row.justify-content-center(numero="3" titulo="<em>Accommodation</em> / Alojamiento")
             .col-xl-8
               .p-3.rounded-4.bg-secundario-s10.mb-3
-                .row.justify-content-center
+                .row.justify-content-center.align-items-center
                   .col-6
-                    p.mb-0 #[em Visa]
-                    p.mb-0 #[em All-inclusive]
-                    p.mb-0 #[em Insurance]
-                    p.mb-0 #[em Foreign exchange]
-                    p.mb-0 #[em Transfer]
-                    p.mb-0 #[em Equipment hire]
+                    p.mb-0 #[em Visa.]
+                    p.mb-0 #[em All-inclusive.]
+                    p.mb-0 #[em Insurance.]
+                    p.mb-0 #[em Foreign exchange.]
+                    p.mb-0 #[em Transfer.]
+                    p.mb-0 #[em Equipment hire.]
                   .col-6
-                    p.mb-0 Visa
-                    p.mb-0 Todo incluido
-                    p.mb-0 Seguro
-                    p.mb-0 Cambio de moneda
-                    p.mb-0 Transferir
-                    p.mb-0 Alquiler de equipos
-          .row(numero="4" titulo="<em>Transportation</em> / Transporte")
+                    p.mb-0 Visa.
+                    p.mb-0 Todo incluido.
+                    p.mb-0 Seguro.
+                    p.mb-0 Cambio de moneda.
+                    p.mb-0 Transferir.
+                    p.mb-0 Alquiler de equipos.
+          .row.justify-content-center(numero="4" titulo="<em>Transportation</em> / Transporte")
             .col-xl-8
               .p-3.rounded-4.bg-secundario-s10.mb-3
-                .row.justify-content-center
+                .row.justify-content-center.align-items-center
                   .col-6
-                    p.mb-0 #[em Charter flight]
-                    p.mb-0 #[em Luxury car]
-                    p.mb-0 #[em Scheduled flight]
+                    p.mb-0 #[em Charter flight.]
+                    p.mb-0 #[em Luxury car.]
+                    p.mb-0 #[em Scheduled flight.]
                   .col-6
-                    p.mb-0 Vuelo charter
-                    p.mb-0 Carro de lujo
-                    p.mb-0 Vuelo programado
+                    p.mb-0 Vuelo charter.
+                    p.mb-0 Carro de lujo.
+                    p.mb-0 Vuelo programado.
 
     separador
     
     #t_2_5.titulo-segundo.color-acento-contenido(data-aos="flip-up")
-      h2 2.5 #[em Geographical locations] // Ubicaciones geográficas
+      h2 2.5 #[em Geographical locations] / Ubicaciones geográficas
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5
       .col-sm-8.col-lg-4
@@ -770,44 +777,41 @@
 
 
     .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 #[em Hotel guests require key information such as the following.]
-
-    .p-4.rounded-4.bg-secundario-s10.mb-4
-      p.mb-0.text-center Los huéspedes del hotel requieren información clave como la siguiente.
+      h5.mb-0 #[em Hotel guests require key information such as the following.] / Los huéspedes del hotel requieren información clave como la siguiente.
 
     .row.justify-content-center.align-items-center
       .col-lg-6.mb-4.mb-lg-0
         SlyderA(tipo="b").bg-acento-botones-a5.p-4.tarjeta.h-100
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
-              h4.mb-0 #[em Food and drink]
-              p #[em Bars / restaurants / takeaways / local specialities]
-              h4.mb-0 Comidas y bebidas
-              p.mb-0 Bares / restaurantes / comida para llevar / especialidades locales
+              h4.mb-0 #[em Food and drink.]
+              p #[em Bars / restaurants / takeaways / local specialities.]
+              h4.mb-0 Comidas y bebidas.
+              p.mb-0 Bares / restaurantes / comida para llevar / especialidades locales.
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
-              h4.mb-0 #[em Sightseeing]
-              p #[em Museums / galleries historic monuments parks / gardens]
-              h4.mb-0 Turismo
-              p.mb-0 Museos / galerías monumentos históricos / parques / jardines
+              h4.mb-0 #[em Sightseeing.]
+              p #[em Museums / galleries historic monuments parks / gardens.]
+              h4.mb-0 Turismo.
+              p.mb-0 Museos / galerías monumentos históricos / parques / jardines.
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
-              h4.mb-0 #[em Entertainment]
-              p #[em Discos / nightclubs / shows / festivals / concerts halls / funfairs]
-              h4.mb-0 Entretenimiento
-              p.mb-0 Discotecas / clubes nocturnos / espectáculos / festivales / salas de conciertos / ferias
+              h4.mb-0 #[em Entertainment.]
+              p #[em Discos / nightclubs / shows / festivals / concerts halls / funfairs.]
+              h4.mb-0 Entretenimiento.
+              p.mb-0 Discotecas / clubes nocturnos / espectáculos / festivales / salas de conciertos / ferias.
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
-              h4.mb-0 #[em Climate]
-              p #[em Seasons, temperature, and rainfall]
-              h4.mb-0 Clima
-              p.mb-0 Estaciones / temperatura / precipitaciones
+              h4.mb-0 #[em Climate.]
+              p #[em Seasons, temperature, and rainfall.]
+              h4.mb-0 Clima.
+              p.mb-0 Estaciones / temperatura / precipitaciones.
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
-              h4.mb-0 #[em Getting around]
-              p #[em Metro / trains bus services]
-              h4.mb-0 Desplazamiento
-              p.mb-0 Metro / trenes autobús
+              h4.mb-0 #[em Getting around.]
+              p #[em Metro / trains bus services.]
+              h4.mb-0 Desplazamiento.
+              p.mb-0 Metro / trenes autobús.
 
 
       .col-sm-11.col-lg-6
