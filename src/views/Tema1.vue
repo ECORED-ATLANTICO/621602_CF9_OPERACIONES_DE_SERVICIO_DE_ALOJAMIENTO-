@@ -115,7 +115,8 @@
       .col-lg-10.col-xl-8
         .titulo-sexto.color-acento-contenido.mb-4
           h5 Figura 2.
-          span #[em Nagative statements]
+          span #[em Negative statements]
+                  
         img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/6-mob.svg", alt="Cuadro de diálogo, que muestra dos interlocutores teniendo una conversación con estructura de Negative statements")
         img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/6.svg", alt="Cuadro de diálogo, que muestra dos interlocutores teniendo una conversación con estructura de Negative statements")
         figcaption  Nota. SENA, (2026).

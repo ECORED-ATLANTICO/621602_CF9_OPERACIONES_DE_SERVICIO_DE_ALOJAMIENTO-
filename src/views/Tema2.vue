@@ -256,7 +256,7 @@
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/30.png", alt="")
 
     .p-3.rounded-4.bg-secundario-s5.mb-2
-      p.mb-0.text-center #[strong #[em Ecconomy Hotels]]  / Cadenas nivel económico
+      p.mb-0.text-center #[strong #[em Economy Hotels]]  / Cadenas nivel económico
 
     .row.justify-content-center.align-items-center
       .col-sm-6.col-lg-5.col-xl-3
@@ -593,9 +593,9 @@
           p.mb-3 Un establecimiento de alojamiento puede ofrecer más que la disposición de una habitación. El cliente puede solicitar servicios complementarios durante su estancia y el hotel los presta como parte de los servicios. Los siguientes se consideran servicios complementarios:
           b.mb-0.text-start #[em The following are considered complementary services:]
           p.mb-3.text-start #[ Los siguientes se consideran servicios complementarios:]
-          b.mb-0.text-start #[em Characteristics of establishment:]
-          p.mb-3.text-start #[ Características de establecimientos de alojamiento:]
 
+    .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
+      h5.mb-0 #[em Characteristics of establishment:] / Características de establecimientos de alojamiento:
 
     SlyderF(columnas="col-md-6 col-xl-4").mb-4.mb-lg-5
       .tarjeta.bg-img.bg-img--3.p-4.py-5
@@ -628,12 +628,10 @@
             img(src='@/assets/curso/tema2/57.svg' alt='')
         p.mb-0.text-center #[strong #[em Safe box.]]
         p.mb-0.text-center Cajilla de seguridad.
-      .tarjeta.bg-img.bg-img--3.p-4.py-5
-        .row.justify-content-center.mb-3
-          .col-4
-            img(src='@/assets/curso/tema2/58.svg' alt='')
-        p.mb-0.text-center #[strong #[em Daily cleaning of the rooms:]]
-        p.mb-0.text-center Limpieza periódica del alojamiento
+      
+    .bg-title.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
+      h5.mb-0 #[em Daily cleaning of the rooms:] / Limpieza periódica del alojamiento
+    SlyderF(columnas="col-md-6 col-xl-4").mb-4.mb-lg-5    
       .tarjeta.bg-img.bg-img--3.p-4.py-5
         .row.justify-content-center.mb-3
           .col-4

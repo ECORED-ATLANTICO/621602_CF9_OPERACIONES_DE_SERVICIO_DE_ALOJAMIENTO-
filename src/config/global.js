@@ -168,21 +168,20 @@ export default {
     },
     {
       referencia:
-        'Reppen, R. (2012). <em>Grammar and Beyond</em>. Cambridge University Press.',
-      link:
-        'https://www.cambridge.org/core/books/grammar-and-beyond/64C7320219E156377140833166576464',
+        "Cambridge University Press. (2022). <em>Empower B1 Pre-Intermediate Student's Book</em>. Cambridge University Press.",
+      link: '',
     },
     {
       referencia:
-        'Strutt, P. (2003). <em>english for International Tourism</em>. Pearson Education ESL.',
+        'British Council. (2015). <em>Aptis for Tourism Candidate Guide</em>. British Council.',
       link:
-        'https://www.pearson.com/us/higher-education/program/Strutt-english-for-International-Tourism_9780201750801',
+        'https://www.britishcouncil.gr/sites/default/files/aptis-for-tourism-candidate-guide.pdf',
     },
     {
       referencia:
-        'Thering, R. (2019). <em>Vocabulario hotelero en inglés: 100 palabras que debes conocer</em>. FluentU Inglés.https://www.fluentu.com/blog/english-esp/vocabulario-hotelero-en-ingles-2/',
+        'British Council. (s. f.). <em>English for Tourism: Opening doors to Medellín</em>. British Council Colombia.',
       link:
-        'https://www.fluentu.com/blog/english-esp/vocabulario-hotelero-en-ingles-2/',
+        'https://www.britishcouncil.co/en/about/success-stories/english-for-tourism',
     },
     {
       referencia:
