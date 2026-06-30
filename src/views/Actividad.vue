@@ -34,22 +34,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Subject + auxiliary + verb + complement.',
+              texto: '<em>Subject + auxiliary + verb + complement.</em>',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Subject + verb + complement.',
+              texto: '<em>Subject + verb + complement.</em>',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Verb + subject + complement.',
+              texto: '<em>Verb + subject + complement.</em>',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Complement + auxiliary + subject',
+              texto: '<em>Complement + auxiliary + subject</em>',
               esCorrecta: false,
             },
           ],
@@ -461,22 +461,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'The doors open at midday.',
+              texto: '<em>The doors open at midday.</em>',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'I am eating now.',
+              texto: '<em>I am eating now.</em>',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'They were working yesterday..',
+              texto: '<em>They were working yesterday.</em>',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'She will travel next year..',
+              texto: '<em>She will travel next year.</em>',
               esCorrecta: false,
             },
           ],
@@ -494,22 +494,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Economy Hotels..',
+              texto: '<em>Economy Hotels.</em>',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Luxury Hotels',
+              texto: '<em>Luxury Hotels.</em>',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Midscale Hotels.',
+              texto: '<em>Midscale Hotels.</em>',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Hostels.',
+              texto: '<em>Hostels.</em>',
               esCorrecta: false,
             },
           ],
@@ -526,22 +526,22 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Historic.',
+              texto: '<em>Historic.</em>',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Cheap.',
+              texto: '<em>Cheap.</em>',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Modern.',
+              texto: '<em>Modern.</em>',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Relaxing.',
+              texto: '<em>Relaxing.</em>',
               esCorrecta: false,
             },
           ],

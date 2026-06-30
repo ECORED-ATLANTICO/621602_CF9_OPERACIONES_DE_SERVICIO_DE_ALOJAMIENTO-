@@ -45,7 +45,9 @@
       .col-12
         img.mb-2.d-block.d-lg-none(data-aos="fade-up", src="@/assets/curso/tema1/5-mob.svg", alt="Cuadro de diálogo, estructura “Sujeto + Verbo + Complemento” en inglés y español. En la parte superior aparece el título bilingüe “Subject + Verb + Complement / Sujeto + Verbo + Vomplemento”. Debajo, dos personajes ilustrados conversan mediante globos de diálogo. Una persona pregunta qué es esta estructura gramatical y otra responde que es una forma de organizar oraciones donde el sujeto realiza la acción, el verbo la expresa y el complemento aporta información adicional. Luego se pregunta por su importancia y se explica que permite construir mensajes claros y coherentes en ambos idiomas. ")
         img.mb-2.d-none.d-lg-block(data-aos="fade-up", src="@/assets/curso/tema1/5.svg", alt="Cuadro de diálogo, estructura “Sujeto + Verbo + Complemento” en inglés y español. En la parte superior aparece el título bilingüe “Subject + Verb + Complement / Sujeto + Verbo + Complemento”. Debajo, dos personajes ilustrados conversan mediante globos de diálogo. Una persona pregunta qué es esta estructura gramatical y otra responde que es una forma de organizar oraciones donde el sujeto realiza la acción, el verbo la expresa y el complemento aporta información adicional. Luego se pregunta por su importancia y se explica que permite construir mensajes claros y coherentes en ambos idiomas. ")
+      .col-lg-10.col-xl-8
         figcaption  Nota. SENA, (2026).
+
   
     .row.justify-content-center.mb-5
       .col-lg-10.col-xl-8
