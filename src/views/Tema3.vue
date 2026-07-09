@@ -17,7 +17,7 @@
         p.mb-0 Dentro de la configuración de sus instalaciones, los hoteles cuentan con diferentes áreas, con mobiliario y comodidades acordes con su uso. Observe algunos ejemplos.
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 #[em Private and Public Areas] / Áreas públicas y privadas
+      h5.mb-0 #[em Private and public areas] / Áreas públicas y privadas
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-7.mb-4.mb-lg-0
@@ -29,7 +29,7 @@
           img(data-aos="fade-down-right", src="@/assets/curso/tema3/2.png", alt="")
     
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 #[em Public Areas] / Áreas públicas
+      h5.mb-0 #[em Public areas] / Áreas públicas
 
     .mt-5.pt-4
       .fullwidth-bg.fullwidth-bg--1

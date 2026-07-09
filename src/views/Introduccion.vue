@@ -31,10 +31,10 @@
 
     .row.justify-content-center.align-items-center.mb-4.mb-lg-5.z-2
       .col-lg-9
-        p #[em This training process is aimed at strengthening basic oral and written communication skills in english, applied to customer service and reception contexts. Through the development of learning activities, apprentices will recognize and use everyday expressions, technical vocabulary, and basic language structures that support interaction with non-Spanish-speaking users and visitors in workplace environments.]
+        p #[em This training process is aimed at strengthening basic oral and written communication skills in English, applied to customer service and reception contexts. Through the development of learning activities, apprentices will recognize and use everyday expressions, technical vocabulary, and basic language structures that support interaction with non-Spanish-speaking users and visitors in workplace environments.]
         .bg-acento-contenido-a5.rounded-4.p-4.mb-3
-          p.mb-0 #[em Throughout the training process, learners will develop the ability to understand general ideas in written texts and oral messages in english by applying strategies such as identifying relevant information, interpreting context, and deducing meanings. Likewise, pronunciation, intonation, and the appropriate use of basic grammatical structures will be reinforced to facilitate functional communication in reception service situations.]
-        p.mb-4.mb-lg-0 #[em Finally, this process will contribute to the consolidation of previously acquired linguistic knowledge and the expansion of technical vocabulary related to customer service, strengthening communicative competencies that support learners’ performance in real-life situations involving guidance, assistance, and interaction in english.]
+          p.mb-0 #[em Throughout the training process, learners will develop the ability to understand general ideas in written texts and oral messages in English by applying strategies such as identifying relevant information, interpreting context, and deducing meanings. Likewise, pronunciation, intonation, and the appropriate use of basic grammatical structures will be reinforced to facilitate functional communication in reception service situations.]
+        p.mb-4.mb-lg-0 #[em Finally, this process will contribute to the consolidation of previously acquired linguistic knowledge and the expansion of technical vocabulary related to customer service, strengthening communicative competencies that support learners’ performance in real-life situations involving guidance, assistance, and interaction in English.]
       .col-sm-6.col-lg-3
         figure
           img(data-aos="fade-down-right", src="@/assets/curso/intro/3.png", alt="")

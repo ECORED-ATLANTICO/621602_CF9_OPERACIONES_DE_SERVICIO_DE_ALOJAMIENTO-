@@ -60,10 +60,10 @@
       .col-lg-8
         .p-4.rounded-4.bg-acento-botones-a5.mb-3
           p.mb-0 #[em The leadership of the general manager is the most important way he or she brings to the overall scheme. The general manager is the person who orchestrates the department directors in their efforts to meet the financial objectives of the organization through its employees. The general manager is required to use the full range of management skills in planning, decision-making, organization, staffing, control, direction, and communication, to develop an efficient operation and competent staff.]
-        p.mb-0 El liderazgo del gerente general es la característica más importante que él o ella aportan al esquema general. El gerente general es quien orquesta los directores de departamento en sus esfuerzos por cumplir con los objetivos financieros de la organización a través de sus empleados. Se requiere que el gerente general utilice toda la gama de habilidades gerenciales de planificación, toma de decisiones, organización, dotación de personal, control, dirección y comunicación, para desarrollar una operación eficiente y un personal competente.
+        p.mb-0 El liderazgo del gerente general es la característica más importante que él o ella aporta al esquema general. El gerente general es quien orquesta a los directores de departamento en sus esfuerzos por cumplir con los objetivos financieros de la organización a través de sus empleados. Se requiere que el gerente general utilice toda la gama de habilidades gerenciales de planificación, toma de decisiones, organización, dotación de personal, control, dirección y comunicación para desarrollar una operación eficiente y un personal competente.
 
     .bg-title.bg-title--lg.p-3.rounded-5.pe-5.mb-4(data-aos="fade-down-right")
-      h5.mb-0 #[em Rooms departament] / Departamento de habitaciones
+      h5.mb-0 #[em Rooms department] / Departamento de habitaciones
 
     .mt-5.pt-4
       .fullwidth-bg.fullwidth-bg--1
@@ -95,7 +95,7 @@
       .row.justify-content-center.align-items-center(titulo="<em>Desk Clerks</em> / Recepcionistas")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em The responsibilities of the reception staff are very varied. The desk clerk can encompass many duties, typically including verifying guest reservations, registering guests, assigning rooms, distributing keys, communicating with cleaning staff, answering phones, providing information and directions to local attractions, accepting cash and giving change, and acting as a liaison between the accommodation establishment and the guest, as well as with the community. As cashier, the functions include the processing of guest accounts, payments and change for guests during the check-out.]
-          p.mb-0 Las responsabilidades del personal de recepción son muy variadas. El recepcionista puede abarcar muchos deberes, que típicamente incluyen verificar las reservas de los huéspedes, registrar a los huéspedes, asignar habitaciones, distribuir llaves, comunicarse con el personal de limpieza, contestar los teléfonos, proporcionar información y direcciones a las atracciones locales, aceptar dinero en efectivo y dar cambio, y actuar como enlace entre el establecimiento de alojamiento y el huésped, así como con la comunidad. Como cajero, las funciones incluyen el procesamiento de las cuentas huésped, los pagos y el cambio para los huéspedes durante el registro de salida.
+          p.mb-0 Las responsabilidades del personal de recepción son muy variadas. El recepcionista puede abarcar muchos deberes, que típicamente incluyen verificar las reservas de los huéspedes, registrar a los huéspedes, asignar habitaciones, distribuir llaves, comunicarse con el personal de limpieza, contestar los teléfonos, proporcionar información y direcciones a las atracciones locales, aceptar dinero en efectivo y dar cambio, y actuar como enlace entre el establecimiento de alojamiento y el huésped, así como con la comunidad. Como cajero, las funciones incluyen el procesamiento de las cuentas de huéspedes, los pagos y el cambio para los huéspedes durante el registro de salida.
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema4/8.png", alt="")
@@ -122,7 +122,7 @@
             img(src="@/assets/curso/tema4/11.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Laundry supervisor</em> / Supervisor de lavandería")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
-          p #[em The laundry supervisor coordinates the area staff to maintain the washing and provision of linens for the hotel´s operation, as well as the attention of washing uniforms, and clothing from guests and external customers.]
+          p #[em The laundry supervisor coordinates the area staff to maintain the washing and provision of linens for the hotel's operation, as well as the attention of washing uniforms and clothing from guests and external customers.]
           p.mb-0 El supervisor de lavandería coordina el personal del área para mantener el lavado y la provisión de la ropa de cama para la operación del hotel, así como la atención del lavado de uniformes y ropa de los huéspedes y clientes externos.
         .col-sm-8.col-lg-4.col-xl-3
           figure
@@ -165,7 +165,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-9
               h4 #[em F&B manager] / Gerente de alimentos y bebidas
-              p #[em The food and beverage manager is responsible for the efficient operation of the kitchen, dining rooms, banquet service, room service, and executive lounge. This includes managing a multitude of details such as food quality, sanitation, inventory, cost control, staff training, revenue control, and guest service, just to name a few. In addition, this person should closely monitor trends in the <em>marketing</em> of food and beverages, and factors in food and beverage preparation and public services.]
+              p #[em The food and beverage manager is responsible for the efficient operation of the kitchen, dining rooms, banquet service, room service, and executive lounge. This includes managing a multitude of details such as food quality, sanitation, inventory, cost control, staff training, revenue control, and guest service, just to name a few. In addition, this person should closely monitor trends in the marketing of food and beverages, and factors in food and beverage preparation and public services.]
               p.mb-4.mb-lg-0 El gerente de alimentos y bebidas es responsable del funcionamiento eficiente de la cocina, los comedores, el servicio de banquetes, el servicio de habitaciones y el salón ejecutivo. Esto incluye la gestión de una multitud de detalles, como la calidad de los alimentos, el saneamiento, el inventario, el control de costos, la capacitación del personal, el control de ingresos y el servicio al huésped, por nombrar algunos. Además, debe vigilar atentamente las tendencias en la comercialización de alimentos y bebidas y los factores de control en la preparación de alimentos y bebidas y los servicios públicos de cocina.
             .col-10.col-sm-6.col-lg-2
               figure
@@ -173,8 +173,8 @@
           .row.justify-content-center.align-items-center
             .col-lg-9
               h4 #[em Chef] / #[em Chef]
-              p #[em The Chef supervises the hotel´s kitchen, managing the food preparation team. The main responsibility is to create the menu, making the decision of which dishes to serve and adjusting them to the brand standards. On a day-to-day basis, he supervises the orders of guests and customers, ensuring the quality of the food in presentation and preparation. Occasionally, this person can assist in the preparation work, but their main responsibilities are administrative, such as overseeing the efficient use of equipment and raw materials, maintaining a very high level in the kitchen operation.]
-              p.mb-4.mb-lg-0 El <em>Chef</em> supervisa la cocina del hotel, gestionando el equipo de preparación de alimentos. La principal responsabilidad es crear el menú, tomando la decisión de qué platos servir y ajustándolos a los estándares de la marca. En el día a día, supervisa los pedidos de los huéspedes y clientes, asegurando la calidad de los alimentos en su presentación y preparación. Ocasionalmente, puede ayudar en el trabajo de preparación, pero sus principales responsabilidades son administrativas, como supervisar el uso eficiente de equipos y materias primas, manteniendo un nivel muy alto en la operación de la cocina.
+              p #[em The chef supervises the hotel's kitchen, managing the food preparation team. The main responsibility is to create the menu, making the decision of which dishes to serve and adjusting them to the brand standards. On a day-to-day basis, he supervises the orders of guests and customers, ensuring the quality of the food in presentation and preparation. Occasionally, this person can assist in the preparation work, but their main responsibilities are administrative, such as overseeing the efficient use of equipment and raw materials, maintaining a very high level in the kitchen operation.]
+              p.mb-4.mb-lg-0 El <em>chef</em> supervisa la cocina del hotel, gestionando el equipo de preparación de alimentos. La principal responsabilidad es crear el menú, tomando la decisión de qué platos servir y ajustándolos a los estándares de la marca. En el día a día, supervisa los pedidos de los huéspedes y clientes, asegurando la calidad de los alimentos en su presentación y preparación. Ocasionalmente, puede ayudar en el trabajo de preparación, pero sus principales responsabilidades son administrativas, como supervisar el uso eficiente de equipos y materias primas, manteniendo un nivel muy alto en la operación de la cocina.
             .col-10.col-sm-6.col-lg-2
               figure
                 img(src='@/assets/curso/tema4/29.png', alt='')
@@ -182,7 +182,7 @@
             .col-lg-9
               h4 #[em Maître / Maître]
               p #[em The maître is responsible for the atmosphere of the restaurant, which means that they control everything from temperature to volume of music and lighting, to give the restaurant the right atmosphere. This person takes care of receiving each client and acts as chief waiter because he or she oversees all the service staff. He oversees serving VIP customers.]
-              p.mb-4.mb-lg-0 El <em>maître</em> es responsable del ambiente del restaurante, lo que significa que controlan todo, desde la temperatura hasta el volumen de la música y la iluminación, para dar al restaurante el ambiente adecuado. Se encarga de recibir a cada cliente y actúa como camarero jefe porque él o ella está a cargo de todo el personal de servicio. Es quien se encarga de servir a los clientes VIP.
+              p.mb-4.mb-lg-0 El <em>maître</em> es responsable del ambiente del restaurante, lo que significa que controla todo, desde la temperatura hasta el volumen de la música y la iluminación, para dar al restaurante el ambiente adecuado. Se encarga de recibir a cada cliente y actúa como camarero jefe porque él o ella está a cargo de todo el personal de servicio. Es quien se encarga de servir a los clientes VIP.
             .col-10.col-sm-6.col-lg-2
               figure
                 img(src='@/assets/curso/tema4/30.png', alt='')
@@ -198,7 +198,7 @@
             .col-lg-9
               h4 #[em Waiter] / Mesero
               p #[em The waiter organizes the restaurant tables and prepares the necessary elements for the service. Once the service starts, this person offers the menu, suggesting drinks and explaining dishes preparations. He or she transmits the information to the kitchen, is attentive to the output of the dishes and serves his or her customers. He is pending to pick up what the customer no longer uses. He or she ends the service by taking the account and making the payment if it’s necessary.]
-              p.mb-4.mb-lg-0 El mesero se encarga de organizar las mesas del restaurante y preparar los elementos necesarios para el servicio. Una vez inicia el servicio, se encarga de ofrecer el menú, sugerir bebidas y explicar preparaciones. Transmite la información a la cocina, está atento de la salida de sus platos y sirve a sus clientes, está pendiente de recoger lo que ya el cliente no utiliza. Termina el servicio pasando la cuenta y apoyando la gestión de cobro si es el caso.
+              p.mb-4.mb-lg-0 El mesero se encarga de organizar las mesas del restaurante y preparar los elementos necesarios para el servicio. Una vez inicia el servicio, se encarga de ofrecer el menú, sugerir bebidas y explicar preparaciones. Transmite la información a la cocina, está atento a la salida de sus platos y sirve a sus clientes; está pendiente de recoger lo que ya el cliente no utiliza. Termina el servicio pasando la cuenta y apoyando la gestión de cobro si es el caso.
             .col-10.col-sm-6.col-lg-2
               figure
                 img(src='@/assets/curso/tema4/32.png', alt='')
@@ -206,7 +206,7 @@
             .col-lg-9
               h4 #[em Steward / Steward]
               p #[em His main responsibility is to maintain the cleanliness of the different areas of the kitchen, he must clean floors, walls, and counters. Also, he oversees washing glassware, crockery and cutlery. He manages the warehouses of kitchenware and supports the kitchen service.]
-              p.mb-4.mb-lg-0 Su principal responsabilidad es mantener la limpieza de las diferentes áreas de la cocina, debe limpiar suelos, paredes y mostradores. Además, supervisa el lavado de la cristalería, la vajilla y la cubertería. Gestiona los almacenes de menaje y apoya al servicio de cocina.
+              p.mb-4.mb-lg-0 Su principal responsabilidad es mantener la limpieza de las diferentes áreas de la cocina; debe limpiar suelos, paredes y mostradores. Además, supervisa el lavado de la cristalería, la vajilla y la cubertería. Gestiona los almacenes de menaje y apoya al servicio de cocina.
             .col-10.col-sm-6.col-lg-2
               figure
                 img(src='@/assets/curso/tema4/33.png', alt='')
@@ -214,7 +214,7 @@
             .col-lg-9
               h4 #[em Host] / Anfitrión
               p #[em The host is responsible for welcoming customers, placing them at their table and offering the menu introducing the waiter who will serve them. This person does reservation control and the best use of the tables. Sometimes he or she also has the custody of coats and other objects left by the client while enjoying the service.]
-              p.mb-4.mb-lg-0 El anfitrión se encarga de dar la bienvenida a los clientes, ubicarlos en su mesa y presentarles la carta, a la vez que presenta al mesero que les atenderá. Es responsable por el control de las reservas y el mayor aprovechamiento de las mesas. En ocasiones, se encarga también de la custodia de abrigos y otros objetos dejados por el cliente mientras disfruta del servicio. 
+              p.mb-4.mb-lg-0 El anfitrión se encarga de dar la bienvenida a los clientes, ubicarlos en su mesa y presentarles la carta, a la vez que presenta al mesero que los atenderá. Es responsable del control de las reservas y el mayor aprovechamiento de las mesas. En ocasiones, se encarga también de la custodia de abrigos y otros objetos dejados por el cliente mientras disfruta del servicio. 
             .col-10.col-sm-6.col-lg-2
               figure
                 img(src='@/assets/curso/tema4/34.png', alt='')
@@ -245,7 +245,7 @@
           .col-lg-6.mb-4.mb-lg-0
             h4 <em>Controller</em> / Contralor
             p #[em The controller is responsible for the administration of the data and financial operation of the property, controls the expense and cost, designs the investment plan in conjunction with management, issues financial reports by department. This information must be available to the owners, board of directors, management, and guests. This requires a well-organized staff, not only to prepare operational statistics, but also to help the general manager determine the effectiveness of each.]
-            p.mb-0 El contralor es responsable de la administración de los datos y la operación financiera de la propiedad, controla el gasto y el costo, diseña el plan de inversiones en conjunto con la gerencia, emite los informes financieros por departamento. Esta información debe estar disponible para los propietarios, la junta directiva, la administración y los huéspedes. Esto requiere un personal bien organizado, no sólo para preparar estadísticas operativas, sino también para ayudar al gerente general a determinar la eficacia de cada uno.
+            p.mb-0 El contralor es responsable de la administración de los datos y la operación financiera de la propiedad, controla el gasto y el costo, diseña el plan de inversiones en conjunto con la gerencia, emite los informes financieros por departamento. Esta información debe estar disponible para los propietarios, la junta directiva, la administración y los huéspedes. Esto requiere un personal bien organizado, no solo para preparar estadísticas operativas, sino también para ayudar al gerente general a determinar la eficacia de cada uno.
           .col-sm-8.col-lg-4
             figure
               img(src='@/assets/curso/tema4/19.png', alt='')
@@ -262,7 +262,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-lg-0
             h4 <em>Accounting Assistant</em> / Auxiliar contable
-            p #[em TTheir main mission is to daily carry out the review and entry of the accounting movements of the hotel. They organize financial documents as invoices and accounts of the outlets; maintain accounts payable and receivable; complete financial reports on a regular basis, and provide information to the finance team. They also help with budgets.]
+            p #[em Their main mission is to daily carry out the review and entry of the accounting movements of the hotel. They organize financial documents as invoices and accounts of the outlets; maintain accounts payable and receivable; complete financial reports on a regular basis, and provide information to the finance team. They also help with budgets.]
             p.mb-0 Su misión principal es realizar diariamente la revisión y el registro de los movimientos contables del hotel. Organizan los documentos financieros como las facturas y las cuentas de los establecimientos; llevan las cuentas por pagar y por cobrar; completan los informes financieros de forma regular y proporcionan información al equipo financiero. También ayudan con los presupuestos.
           .col-sm-8.col-lg-4
             figure
@@ -281,7 +281,7 @@
         p.mb-4 #[em Below are some of the most common positions and functions within the Maintenance Department.]
 
         .p-4.rounded-4.bg-acento-botones-a5.mb-4
-          p.mb-3 El Departamento de mantenimiento es responsable de garantizar el correcto funcionamiento, la seguridad y la conservación de las instalaciones, equipos y sistemas del hotel. Su principal objetivo es ofrecer espacios cómodos y seguros para huéspedes y personal mediante actividades de mantenimiento preventivo y correctivo.
+          p.mb-3 El Departamento de Mantenimiento es responsable de garantizar el correcto funcionamiento, la seguridad y la conservación de las instalaciones, equipos y sistemas del hotel. Su principal objetivo es ofrecer espacios cómodos y seguros para huéspedes y personal mediante actividades de mantenimiento preventivo y correctivo.
           p.mb-3 En este departamento pueden trabajar profesionales como técnicos de mantenimiento, electricistas, plomeros, pintores y supervisores. Su labor contribuye a mantener la calidad y eficiencia de las operaciones hoteleras.
           p.mb-0 A continuación, se presentan algunos de los cargos y funciones más comunes del departamento de mantenimiento.
 
@@ -342,10 +342,10 @@
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Travel Agent.]
+                  | #[em Travel agent.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Local Tourism manager.]
+                  | #[em Local tourism manager.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
                   | #[em Tourism consultant.]

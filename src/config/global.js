@@ -2,7 +2,7 @@ export default {
   global: {
     Name: 'Inglés básico para servicio de recepción',
     Description:
-      'Este componente formativo, profundizará sobre el estilo indirecto, el vocabulario y las frases del trabajo, las rutinas laborales y sociales que se solían tener. Habrá la oportunidad de aclarar dudas en cuanto a estructuras presentes, pasadas y futuras.',
+      'Este componente formativo profundizará sobre el estilo indirecto, el vocabulario y las frases del trabajo, las rutinas laborales y sociales que se solían tener. Habrá la oportunidad de aclarar dudas en cuanto a estructuras presentes, pasadas y futuras.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
   },

@@ -17,13 +17,13 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: '<em>english at the Front Desk: hotel communication challenge</em>',
+      tema: '<em>English at the Front Desk: hotel communication challenge</em>',
       titulo: 'Cuestionario',
       introduccion:
         '<b> Objetivo:</b> evaluar la apropiación de vocabulario, estructuras gramaticales básicas y expresiones en inglés relacionadas con el servicio de recepción hotelera, el alojamiento, las instalaciones y la comunicación en contextos laborales.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
-      titulo_reprobado: 'VUELVA A INTENTARLO.',
+      titulo_reprobado: '¡VUELVA A INTENTARLO!',
       preguntas: [
         {
           id: 1,
@@ -217,7 +217,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! “<em>Expensive</em>” se utiliza para describir un hotel o servicio de alto costo.',
+            '¡Correcto! “Expensive” se utiliza para describir un hotel o servicio de alto costo.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
