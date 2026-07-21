@@ -162,16 +162,19 @@
       p.mb-0.text-center #[strong #[em Luxury hotels]] / Cadenas de nivel lujo
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/11.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/12.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
+        figure
+          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/12-1.png", alt="")
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/13.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/14.png", alt="")
 
@@ -179,96 +182,100 @@
       p.mb-0.text-center #[strong #[em Upper upscale hotels]] / Nivel superior exclusivo
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/15.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/16.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/17.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/18.png", alt="")
-          
+      .col-sm-6.col-lg-5.col-xl-2
+        figure
+          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/18-1.png", alt="")
+
     .p-3.rounded-4.bg-secundario-s5.mb-2
       p.mb-0.text-center #[strong #[em Upscale hotels]] / Cadenas de nivel exclusivo
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/19.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/20.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/21.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/22.png", alt="")
+      .col-sm-6.col-lg-5.col-xl-2
+        figure
+          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/22-1.png", alt="")
           
     .p-3.rounded-4.bg-secundario-s5.mb-2
       p.mb-0.text-center #[strong #[em Upper midscale hotels]] / Cadenas nivel superior medio
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/47.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/48.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/49.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/50.png", alt="")
+      .col-sm-6.col-lg-5.col-xl-2
+        figure
+          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/50-1.png", alt="")
           
     .p-3.rounded-4.bg-secundario-s5.mb-2
       p.mb-0.text-center #[strong #[em Midscale hotels]] / Cadenas nivel medio
 
     .row.justify-content-center.align-items-center.mb-4
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/23.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/24.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/25.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/26.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/27.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/28.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/29.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/30.png", alt="")
+      
 
     .p-3.rounded-4.bg-secundario-s5.mb-2
       p.mb-0.text-center #[strong #[em Economy hotels]]  / Cadenas nivel económico
 
     .row.justify-content-center.align-items-center
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/31.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
-        figure
-          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/32.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/33.png", alt="")
-      .col-sm-6.col-lg-5.col-xl-3
+      .col-sm-6.col-lg-5.col-xl-2
+        figure
+          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/31.png", alt="")
+      .col-sm-6.col-lg-5.col-xl-2
+        figure
+          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/32.png", alt="")
+      .col-sm-6.col-lg-5.col-xl-2
+        figure
+          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/33.png", alt="")
+      .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/34.png", alt="")
 

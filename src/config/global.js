@@ -196,7 +196,7 @@ export default {
         {
           nombre: 'Claudia Johanna Gómez Pérez',
           cargo:
-            'Profesional 06 - Responsable del Ecosistema de Recursos Educativos Digitales (RED)',
+            'Responsable del Ecosistema de Recursos Educativos Digitales (RED) - Profesional 06',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -211,17 +211,17 @@ export default {
       autores: [
         {
           nombre: 'Sandra Isabel Suárez Delgado',
-          cargo: 'Experto temático',
-          centro: 'Centro de Gestión y Servicios',
+          cargo: 'Experta temática',
+          centro: 'Centro de Gestión y Servicios - Regional Antioquia',
         },
         {
           nombre: 'Harbey Castelblanco',
           cargo: 'Experto temático',
-          centro: 'Centro Nacional Colombo Alemán',
+          centro: 'Centro Nacional Colombo Alemán - Regional Atlántico',
         },
         {
           nombre: 'Carolina Coca Salazar',
-          cargo: 'Evaluador Instruccional',
+          cargo: 'Evaluadora Instruccional',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
@@ -251,12 +251,12 @@ export default {
       autores: [
         {
           nombre: 'Luz Karime Amaya Cabra',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
           nombre: 'Laura Daniela Burgos Rueda',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
         {
@@ -266,7 +266,7 @@ export default {
         },
         {
           nombre: 'Karine Isabel Ospino Fritz',
-          cargo: 'Validador y vinculador de recursos digitales',
+          cargo: 'Validadora y vinculadora de recursos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Atlántico',
         },
       ],
