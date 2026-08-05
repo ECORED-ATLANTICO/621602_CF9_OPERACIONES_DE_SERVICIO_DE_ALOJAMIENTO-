@@ -265,7 +265,7 @@
     .row.justify-content-center.align-items-center
       .col-sm-6.col-lg-5.col-xl-2
         figure
-          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/33.png", alt="")
+          img.mb-3.mb-lg-0(src="@/assets/curso/tema2/30.png", alt="")
       .col-sm-6.col-lg-5.col-xl-2
         figure
           img.mb-3.mb-lg-0(src="@/assets/curso/tema2/31.png", alt="")
