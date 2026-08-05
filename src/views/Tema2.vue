@@ -127,22 +127,22 @@
               ul.lista-ul--color.pe-4
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas de nivel lujo.
+                  | Cadenas nivel lujo.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas de nivel Superior exclusivo.
+                  | Cadenas nivel Superior exclusivo.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas de nivel exclusivo.
+                  | Cadenas nivel exclusivo.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas de nivel superior medio.
+                  | Cadenas nivel superior medio.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas de nivel medio.
+                  | Cadenas nivel medio.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | Cadenas de nivel económico.
+                  | Cadenas nivel económico.
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
                   | Hoteles independientes.
@@ -483,7 +483,7 @@
             img(src="@/assets/curso/tema2/42.png", alt="")
       .row.justify-content-center.align-items-center(titulo="<em>Camping</em> / Acampar")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
-          p #[em Campsites are outdoor places, with a basic conditioning to cater people who make use of them in exchange for a set amount of money. Usually, these spaces have facilities such as bathrooms, bars, restaurants, or social areas.] 
+          p #[em Campsites are outdoor places with a basic conditioning to cater people who make use of them in exchange for a set amount of money. Usually, these spaces have facilities such as bathrooms, bars, restaurants, or social areas.] 
           p.mb-0 Los campings son lugares al aire libre, con un acondicionamiento básico para atender a las personas que hacen uso de ellos a cambio de una cantidad fija de dinero. Por lo general, estos espacios tienen instalaciones como baños, bares, restaurantes o áreas sociales.
         .col-sm-8.col-lg-4.col-xl-3
           figure
@@ -771,7 +771,7 @@
           p.mb-0 #[em In the accommodation service, it is important to know the location of the establishment and the specific places that guests may need to access. Therefore, it is important to keep that in mind and guide them in case of being.]
           p #[em Colombia is a land of diversity; from the Andes to the Amazon, it has a place for everyone.]
           p.mb-0 #[em Colombia can be divided into six geographic regions: the Caribbean coast, the Pacific coast, the Andes Mountains, Orinoquia, the Amazon rainforest, and the Islands.]
-          p.mb-0 #[em Each region offers it's own activities; it is important to know the highlights of each of them.]
+          p.mb-0 #[em Each region offers its own activities; it is important to know the highlights of each of them.]
         
         p.mb-0 La ubicación geográfica es la identificación de un lugar específico del planeta, mediante el uso de diversas herramientas como mapas, brújulas, coordenadas o sistemas de geolocalización.
         p.mb-0 En el servicio de alojamiento, es importante tener conocimiento de la ubicación del establecimiento y los lugares específicos que a los huéspedes pueden necesitar acceder. Por lo tanto, es importante tenerlo presente y orientarlos en caso de ser requerido.

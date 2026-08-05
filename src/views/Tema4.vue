@@ -198,7 +198,7 @@
             .col-lg-9
               h4 #[em Waiter] / Mesero
               p #[em The waiter organizes the restaurant tables and prepares the necessary elements for the service. Once the service starts, this person offers the menu, suggesting drinks and explaining dishes preparations. He or she transmits the information to the kitchen, is attentive to the output of the dishes and serves his or her customers. He is pending to pick up what the customer no longer uses. He or she ends the service by taking the account and making the payment if it’s necessary.]
-              p.mb-4.mb-lg-0 El mesero se encarga de organizar las mesas del restaurante y preparar los elementos necesarios para el servicio. Una vez inicia el servicio, se encarga de ofrecer el menú, sugerir bebidas y explicar preparaciones. Transmite la información a la cocina, está atento de la salida de sus platos y sirve a sus clientes, está pendiente de recoger lo que ya el cliente no utiliza. Termina el servicio pasando la cuenta y apoyando la gestión de cobro si es el caso.
+              p.mb-4.mb-lg-0 El mesero se encarga de organizar las mesas del restaurante y preparar los elementos necesarios para el servicio. Una vez inicia el servicio, se encarga de ofrecer el menú, sugerir bebidas y explicar preparaciones. Transmite la información a la cocina, está atento a la salida de sus platos y sirve a sus clientes; está pendiente de recoger lo que ya el cliente no utiliza. Termina el servicio pasando la cuenta y apoyando la gestión de cobro si es el caso.
             .col-10.col-sm-6.col-lg-2
               figure
                 img(src='@/assets/curso/tema4/32.png', alt='')
@@ -214,7 +214,7 @@
             .col-lg-9
               h4 #[em Host] / Anfitrión
               p #[em The host is responsible for welcoming customers, placing them at their table and offering the menu introducing the waiter who will serve them. This person does reservation control and the best use of the tables. Sometimes he or she also has the custody of coats and other objects left by the client while enjoying the service.]
-              p.mb-4.mb-lg-0 El anfitrión se encarga de dar la bienvenida a los clientes, ubicarlos en su mesa y presentarles la carta, a la vez que presenta al mesero que les atenderá. Es responsable por el control de las reservas y el mayor aprovechamiento de las mesas. En ocasiones, se encarga también de la custodia de abrigos y otros objetos dejados por el cliente mientras disfruta del servicio. 
+              p.mb-4.mb-lg-0 El anfitrión se encarga de dar la bienvenida a los clientes, ubicarlos en su mesa y presentarles la carta, a la vez que presenta al mesero que los atenderá. Es responsable del control de las reservas y el mayor aprovechamiento de las mesas. En ocasiones, se encarga también de la custodia de abrigos y otros objetos dejados por el cliente mientras disfruta del servicio. 
             .col-10.col-sm-6.col-lg-2
               figure
                 img(src='@/assets/curso/tema4/34.png', alt='')
@@ -345,7 +345,7 @@
                   | #[em Travel agent.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
-                  | #[em Local tourism manager.]
+                  | #[em Local Tourism Manager.]
                 li.d-flex.mb-0
                   i.fas.fa-minus.fa-xs.mt-2
                   | #[em Tourism consultant.]
