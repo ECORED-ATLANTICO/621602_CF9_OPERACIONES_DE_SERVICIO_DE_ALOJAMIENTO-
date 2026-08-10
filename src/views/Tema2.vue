@@ -453,7 +453,7 @@
             p.mb-0 Existen diferentes tipos de establecimientos de alojamiento. A continuación, conocerá cada uno y sus principales características.
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-terciario-t5").mb-5
-      .row.justify-content-center.align-items-center(titulo="<em>Hotel</em> / Hotel")
+      .row.justify-content-center.align-items-center(titulo="<em>Hostel</em> / Hostal")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em This type of accommodation is featured by providing shared spaces at low cost, where guests can rent a bed, usually a bunk bed in a bedroom, with shared use of the bathroom, kitchen, and social areas.]
           p.mb-0 Este tipo de alojamiento se caracteriza por brindar espacios compartidos a bajo costo y donde los huéspedes pueden alquilar una cama, generalmente una litera en un dormitorio, con uso compartido de baño, cocina y áreas sociales.
@@ -470,7 +470,7 @@
       .row.justify-content-center.align-items-center(titulo="<em>Lodge</em> / Cabaña")
         .col-sm-10.col-lg-8.col-xl-8.mb-4.mb-lg-0
           p #[em A lodge is a small house or cottage in the vicinity of a park, in a natural environment. Originally, it is a place of rest, a refuge for hunters, fishermen, or sportsmen. Now, applied to the hotel industry, it should be a small place, built permanently (with walls), local materials, minimal environmental impact, committed to the local culture, and offering the guest everything they need for their rest while performing one of these practices. Here it is known as rural accommodation.]
-          p.mb-0 Un lodge es una pequeña casa o cabaña en las cercanías de un parque, en un entorno natural. Originalmente, es un lugar de descanso, un refugio, para cazadores, pescadores, deportistas. Ahora, aplicado a la hotelería, debe ser un lugar pequeño, construido de manera permanente (con muros) con materiales locales de mínimo impacto ambiental, comprometido con la cultura local y que ofrece al huésped todo lo que necesita para su descanso mientras realiza una de estas prácticas. Aquí es conocido como alojamiento rural.
+          p.mb-0 Un lodge es una pequeña casa o cabaña en las cercanías de un parque, en un entorno natural. Originalmente, es un lugar de descanso, un refugio, para cazadores, pescadores, deportistas. Ahora, aplicado a la hotelería, debe ser un lugar pequeño, construido de manera permanente (con muros), con materiales locales, de mínimo impacto ambiental, comprometido con la cultura local y que ofrece al huésped todo lo que necesita para su descanso mientras realiza una de estas prácticas. Aquí es conocido como alojamiento rural.
         .col-sm-8.col-lg-4.col-xl-3
           figure
             img(src="@/assets/curso/tema2/41.png", alt="")
@@ -814,9 +814,9 @@
           .row.justify-content-center.align-items-center.mb-5
             .col-lg-11
               h4.mb-0 #[em Getting around.]
-              p #[em Metro / trains bus services.]
-              h4.mb-0 Desplazamiento de servicios.
-              p.mb-0 Metro / trenes autobús.
+              p #[em Metro / trains / bus services.]
+              h4.mb-0 Desplazamiento servicios.
+              p.mb-0 Metro / trenes / autobús.
 
 
       .col-sm-11.col-lg-6

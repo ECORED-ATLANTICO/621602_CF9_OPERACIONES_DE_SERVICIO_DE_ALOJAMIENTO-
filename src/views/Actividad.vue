@@ -54,7 +54,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Las oraciones afirmativas en presente simple se estructuran con sujeto, verbo y complemento.',
+            'Las oraciones afirmativas en presente simple se estructuran con sujeto, verbo y complemento.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -87,7 +87,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! En tercera persona singular se agrega “s” o “es” al verbo en presente simple.',
+            'En tercera persona singular se agrega “s” o “es” al verbo en presente simple.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -119,7 +119,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! “Lodging” hace referencia al servicio de alojamiento ofrecido a los huéspedes.',
+            '“Lodging” hace referencia al servicio de alojamiento ofrecido a los huéspedes.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -152,7 +152,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Un hostel se caracteriza por ofrecer espacios compartidos y alojamiento económico.',
+            'Un hostel se caracteriza por ofrecer espacios compartidos y alojamiento económico.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -185,7 +185,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los hoteles de 5 estrellas deben cumplir mínimo con el 95 % de los requisitos establecidos en la norma NTSH006.',
+            'Los hoteles de 5 estrellas deben cumplir mínimo con el 95 % de los requisitos establecidos en la norma NTSH006.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -217,7 +217,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! “Expensive” se utiliza para describir un hotel o servicio de alto costo.',
+            '“Expensive” se utiliza para describir un hotel o servicio de alto costo.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -249,7 +249,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El presente simple se usa para expresar hábitos, rutinas y eventos cotidianos.',
+            'El presente simple se usa para expresar hábitos, rutinas y eventos cotidianos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -282,7 +282,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Los “Economy Hotels” corresponden a hoteles de nivel económico.',
+            'Los “Economy Hotels” corresponden a hoteles de nivel económico.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -316,7 +316,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Esta expresión se utiliza para brindar indicaciones o instrucciones.',
+            'Esta expresión se utiliza para brindar indicaciones o instrucciones.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -348,7 +348,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! “Charming ” se utiliza para describir lugares agradables o con encanto.',
+            '“Charming ” se utiliza para describir lugares agradables o con encanto.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -381,7 +381,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! En verbos terminados en consonante + “y”, la “y” cambia por “ies” en tercera persona singular.',
+            'En verbos terminados en consonante + “y”, la “y” cambia por “ies” en tercera persona singular.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -415,7 +415,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El inglés permite mejorar la atención y comunicación con usuarios no hispanohablantes.',
+            'El inglés permite mejorar la atención y comunicación con usuarios no hispanohablantes.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -448,7 +448,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El verbo “have” cambia de manera irregular a “has” en tercera persona singular.',
+            'El verbo “have” cambia de manera irregular a “has” en tercera persona singular.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -481,7 +481,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! “Luxury Hotels” corresponde a hoteles de nivel lujo.',
+            '“Luxury Hotels” corresponde a hoteles de nivel lujo.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -514,7 +514,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! “Luxury Hotels” corresponde a hoteles de nivel lujo.',
+            '“Luxury Hotels” corresponde a hoteles de nivel lujo.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -546,7 +546,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! “Modern” se utiliza para describir instalaciones o espacios contemporáneos.',
+            '“Modern” se utiliza para describir instalaciones o espacios contemporáneos.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -579,7 +579,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Organizar las ideas y preparar la información facilita una presentación clara y efectiva.',
+            'Organizar las ideas y preparar la información facilita una presentación clara y efectiva.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -612,7 +612,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Estas palabras describen lugares tranquilos y relajantes.',
+            'Estas palabras describen lugares tranquilos y relajantes.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -645,7 +645,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! Las oraciones negativas en presente simple utilizan el auxiliar “do/does” + “not”.',
+            'Las oraciones negativas en presente simple utilizan el auxiliar “do/does” + “not”.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -679,7 +679,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Correcto! El componente busca fortalecer habilidades comunicativas en inglés aplicadas al servicio y atención al cliente',
+            'El componente busca fortalecer habilidades comunicativas en inglés aplicadas al servicio y atención al cliente',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
