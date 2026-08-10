@@ -213,7 +213,7 @@
           .row.justify-content-center.align-items-center
             .col-lg-9
               h4 #[em Host] / Anfitrión
-              p #[em The host is responsible for welcoming customers, placing them at their table and offering the menu introducing the waiter who will serve them. This person does reservation control and the best use of the tables. Sometimes he or she also has the custody of coats and other objects left by the client while enjoying the service.]
+              p #[em The host is responsible for welcoming customers, placing them at their table, and offering the menu, introducing the waiter who will serve them. This person does reservation control and the best use of the tables. Sometimes he or she also has the custody of coats and other objects left by the client while enjoying the service.]
               p.mb-4.mb-lg-0 El anfitrión se encarga de dar la bienvenida a los clientes, ubicarlos en su mesa y presentarles la carta, a la vez que presenta al mesero que los atenderá. Es responsable del control de las reservas y el mayor aprovechamiento de las mesas. En ocasiones, se encarga también de la custodia de abrigos y otros objetos dejados por el cliente mientras disfruta del servicio. 
             .col-10.col-sm-6.col-lg-2
               figure
@@ -253,7 +253,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-6.mb-4.mb-lg-0
             h4 <em>General Cashier</em> / Cajero General
-            p #[em The General Cashier reconciles the movements from the different outlets including front office daily, being responsible to maintain the balances of cash and banks. It is the one who processes the cash for minor expenses in accordance with the hotel procedures and ensures the payment of accounts payable within the established times.]
+            p #[em The General Cashier reconciles the movements from the different outlets, including the Front Office, on a daily basis. The General Cashier is responsible for maintaining the balances of cash and banks. They process the cash for minor expenses in accordance with the hotel procedures and ensure the payment of accounts payable within the established timeframes.]
             p.mb-0 El Cajero General concilia los movimientos desde los diferentes puntos de venta, incluyendo la recepción, a diario, siendo responsable de mantener los saldos de efectivo y bancos. Es quien procesa el efectivo para gastos menores, de acuerdo con los procedimientos hoteleros, y asegura el pago de las cuentas por pagar dentro de los tiempos establecidos.
           .col-sm-8.col-lg-4
             figure
